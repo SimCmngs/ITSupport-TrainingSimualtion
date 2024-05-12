@@ -8,22 +8,16 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
 
 ## 🛠 Tools & Technologies:
 
-#### Virtualization & Systems:
-<p align="left"><img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" title="VMware" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" title="Windows 10/11" title="Windows 10/11" width="40" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" title="Windows Server OS" title="Windows Server OS" width="40" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" title="Mac OS" title="Mac OS" width="50" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" title="Android" width="48" height="48"> </p>
-
-#### Networking & Security:
-<p align="left"> <img src="https://www.svgrepo.com/show/444385/gui-firewall.svg" alt="Firewalls" title="Firewalls" title="Firewalls" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-authenticator.svg" alt="MFA (Multi-Factor Authentication)" title="MFA (Multi-Factor Authentication)" title="MFA (Multi-Factor Authentication)" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security (Antivirus)" title="Symantec Endpoint Security (Antivirus)" title="Symantec Endpoint Security (Antivirus)" width="100" height="48"> </p>
-
-<table> <tr> <th>Virtualization & Systems</th> <th>Networking & Security</th> </tr> <tr> <td> <p align="left"> <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" title="Windows Server OS" width="40" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" title="Mac OS" width="50" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48"> </p> </td> <td> <p align="left"> <img src="https://www.svgrepo.com/show/444385/gui-firewall.svg" alt="Firewalls" title="Firewalls" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-authenticator.svg" alt="MFA (Multi-Factor Authentication)" title="MFA (Multi-Factor Authentication)" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security (Antivirus)" title="Symantec Endpoint Security (Antivirus)" width="100" height="48"> </p> </td> </tr> </table> 
+<table> <tr> <th>Virtualization & Systems</th> <th>Networking & Security</th> <th>Management Systems</th> </tr> <tr> <td> <p align="left"> <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" title="Windows Server OS" width="40" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" title="Mac OS" width="50" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48"> </p> </td> <td> <p align="left"> <img src="https://www.svgrepo.com/show/490469/vpn.svg" alt="VPN" title="VPN" title="VPN" width="48" height="48"> <img src="https://www.svgrepo.com/show/444385/gui-firewall.svg" alt="Firewalls" title="Firewalls" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-authenticator.svg" alt="MFA (Multi-Factor Authentication)" title="MFA (Multi-Factor Authentication)" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security (Antivirus)" title="Symantec Endpoint Security (Antivirus)" width="100" height="48"> </p> </td> <td> <p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" title="Microsoft 365" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" title="Entra ID" title="Entra ID" width="48" height="48"> </tr> </table> 
                  
-- **Virtualization & Systems:** `VMware`, `Windows 10/11`, Windows `Server OS`, `Mac OS`, `Android`
-- **Networking & Security:** `TCP/IP`, `DNS/DHCP`, `VPN`, `Symantec` Endpoint Security *(Antivirus)* 
-- **Management Systems:** `Microsoft 365/Entra ID`, `Active Directory`, `Exchange` Online, `Intune` *(MDM)*
-- **Collaboration/Productivity:** `Outlook`, `Teams`, `SharePoint` Online, `OneDrive`, `MS Office` Suite
-- **Scripting/Automation:** `PowerShell`
-- **Remote Support:** `TeamViewer`, `Quick Assist`, `RSAT`, `RDP` 
-- **Ticketing System:** `Jira` Service Management
-- **Documentation:** Project Writing *(markdown/HTML)*, Diagramming, Troubleshooting Instructions, Support Guides, Video Tutorials
+- <ins>**Virtualization & Systems:**</ins> VMware , Windows 10/11 , Windows Server OS , Mac OS , Android
+- <ins>**Networking & Security:**</ins> TCP/IP, DNS/DHCP, VPN, Symantec Endpoint Security (Antivirus)
+- <ins>**Management Systems:**</ins> Microsoft 365/Entra ID, Active Directory, Exchange Online, Intune (MDM)
+- <ins>**Collaboration/Productivity:**</ins> Outlook, Teams, SharePoint Online, OneDrive, MS Office Suite
+- <ins>**Scripting/Automation:**</ins> PowerShell
+- <ins>**Remote Support:**</ins> TeamViewer, Quick Assist, RSAT, RDP
+- <ins>**Ticketing System:**</ins> Jira Service Management
+- <ins>**Documentation:**</ins> Project Writing (markdown/HTML), Diagramming, Troubleshooting Instructions, Support Guides, Video Tutorials
 
 ---
 

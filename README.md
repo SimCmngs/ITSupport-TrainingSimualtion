@@ -14,13 +14,13 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
 
 <details><summary>Tools & Technologies - Listed</summary>
   
-- <ins>**Virtualization & Systems:**</ins> VMware , Windows 10/11 , Windows Server OS , Mac OS , Android
-- <ins>**Networking & Security:**</ins> TCP/IP , DNS/DHCP , VPN , Symantec Endpoint Security (Antivirus)
-- <ins>**Management Systems:**</ins> Microsoft 365/Entra ID , Active Directory , Exchange Online , Intune (MDM)
-- <ins>**Collaboration/Productivity:**</ins> Outlook , Teams , SharePoint Online , OneDrive , MS Office Suite
-- <ins>**Scripting/Automation:**</ins> PowerShell
-- <ins>**Remote Support:**</ins> TeamViewer , Quick Assist , RSAT , RDP
-- <ins>**Ticketing System:**</ins> Jira Service Management
+- <ins>**Virtualization & Systems:**</ins> `VMware` , `Windows 10/11` , Windows `Server OS` , `Mac OS` , `Android`
+- <ins>**Networking & Security:**</ins> `TCP/IP` , `DNS/DHCP` , `VPN` , `Symantec` Endpoint Security (Antivirus)
+- <ins>**Management Systems:**</ins> `Microsoft 365/Entra ID` , `Active Directory` , `Exchange` Online , `Intune` (MDM)
+- <ins>**Collaboration/Productivity:**</ins> `Outlook` , `Teams` , `SharePoint` Online , `OneDrive` , `MS Office` Suite
+- <ins>**Scripting/Automation:**</ins> `PowerShell`
+- <ins>**Remote Support:**</ins> `TeamViewer` , `Quick Assist` , `RSAT` , `RDP`
+- <ins>**Ticketing System:**</ins> `Jira` Service Management
 - <ins>**Documentation:**</ins> Project Writing (markdown/HTML) , Diagramming , Troubleshooting Instructions , Support Guides , Video Tutorials
 
 </details>

@@ -281,7 +281,7 @@ Core technologies/devices to include:
 #### <ins>**3.1 - Training Exercises**</ins>
  - Designed a set of realistic IT support scenarios to be used as hands-on training exercises.
 
-<details><summary>#1. Onboarding and Managing [user accounts]</summary>
+<details><summary>#1 - Onboarding and Managing [user accounts]</summary>
 
       Exercise #1: Onboard new users into Active Directory
       > Tools: with RSAT-ADUC Console
@@ -297,7 +297,7 @@ Core technologies/devices to include:
 
 </details>
 
-<details><summary>#2. Troubleshooting and Testing [network connections]</summary>
+<details><summary>#2 - Troubleshooting and Testing [network connections]</summary>
 
       Exercise #1: Troubleshoot network connectivity issues
       > Tools: with Device Manager, and CMD commands (ipconfig, ping, netsh)
@@ -313,7 +313,7 @@ Core technologies/devices to include:
 
 </details>
 
-<details><summary>#3. Resolving [printer and file] sharing issues</summary>
+<details><summary>#3 - Resolving [printer and file] sharing issues</summary>
 
       Exercise #1: Set up a shared network printer
       > Tools: with Server Manager, and Device Management
@@ -329,7 +329,7 @@ Core technologies/devices to include:
 
 </details>
 
-<details><summary>#4. Deploying and Managing [security] solutions</summary>
+<details><summary>#4 - Deploying and Managing [security] solutions</summary>
 
       Exercise #1: Deploy endpoint antivirus packages, to client devices
       > Tools: with Symantec Endpoint Security manager
@@ -345,7 +345,7 @@ Core technologies/devices to include:
 
 </details>
 
-<details><summary>#5. Responding to [email]-related problems</summary>
+<details><summary>#5 - Responding to [email]-related problems</summary>
 
       Exercise #1: Troubleshoot mail flow / delivery failures
       > Tools: with Exchange Online, and Outlook
@@ -361,7 +361,7 @@ Core technologies/devices to include:
 
 </details>
 
-<details><summary>#6. Handling [mobile device] management tasks</summary>
+<details><summary>#6 - Handling [mobile device] management tasks</summary>
 
       Exercise #1: Enroll/Deploy devices for remote management
       > Tools: with Intune admin center, and Windows Autopilot
@@ -377,7 +377,7 @@ Core technologies/devices to include:
 
 </details>
 
-<details><summary>#7. Providing [Office 365] technical support </summary>
+<details><summary>#7 - Providing [Office 365] technical support </summary>
 
       Exercise #1: Microsoft Teams support
       > Tasks: set up hardware equipment (webcams, headsets), and guide users on Teams' features 

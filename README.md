@@ -32,7 +32,7 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
     </td>
   </tr>
   <tr>
-    <th>Management Systems</th>
+    <th>Admin/Management Systems</th>
     <th>Collaboration/Productivity</th>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ Core technologies/devices to include:
    - Symantec Endpoint Security 
 
    <ins>**Domain Name**</ins>
-   - vgmlab (Hostinger/GoDaddy)
+   - vgmlab *(Hostinger/GoDaddy)*
 
    <ins>**Operating Systems**</ins>
    - Windows Server licenses
@@ -232,7 +232,7 @@ Core technologies/devices to include:
 
 #### <ins>**2.1 - VMware Environment Setup**</ins>
 
-> - Created and configured virtual machines *(on-prem servers and devices)*.
+> - Created and configured the virtual machines *(on-prem servers and devices)*.
 > - Installed operating systems and required services/applications.
 > - Established networking and connectivity between virtual machines.
 
@@ -260,9 +260,9 @@ Core technologies/devices to include:
 
 #### <ins>**2.3 - Cloud Services Setup**</ins>
 
-> - Set up Teams for virtual collaboration *(video conferencing and voice calls)*
-> - Integrated OneDrive for cloud storage and file sharing
-> - Configured SharePoint Online for the Support Team's knowledge base and internal document sharing
+> - Set up Teams, for virtual collaboration *(video conferencing and voice calls)*
+> - Integrated OneDrive, for *cloud storage and file sharing*
+> - Configured SharePoint Online, as the Support Team's *document management system for internal knowledge sharing*
 > - Deployed Microsoft Office suite applications to enrolled devices using Intune
 
 ---
@@ -278,13 +278,13 @@ Core technologies/devices to include:
 
 ### 3️⃣ Training + Simulation Exercises:
 
-#### <ins>**3.1 - Training Exercices**</ins>
+#### <ins>**3.1 - Training Exercises**</ins>
  - Designed a set of realistic IT support scenarios to be used as hands-on training exercises.
 
 <details><summary>1. Onboarding and Managing [user accounts]</summary>
 
       Exercise #1: Onboard new users into Active Directory
-      > Tools: with RSAT: ADUC Console
+      > Tools: with RSAT-ADUC Console
       > Tasks: configure user properties/home folders, assign group memberships, and map network drives
 
       Exercise #2: Automate user account management tasks
@@ -292,7 +292,7 @@ Core technologies/devices to include:
       > Tasks: provision accounts, assign licenses, and set users' location
 
       Exercise #3: Resolve login issues and password resets
-      > Tool: with RSAT: ADUC Console
+      > Tool: with RSAT-ADUC Console
       > Tasks: unlock user accounts, and reset passwords
 
 </details>

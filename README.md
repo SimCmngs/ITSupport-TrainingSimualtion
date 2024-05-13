@@ -15,19 +15,20 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" width="40" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" width="40" height="48">
-      <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" width="50" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" title="Windows Server OS" width="40" height="48">
+      <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" title="Mac OS" width="50" height="48">
     </td>
     <td>
-      <img src="https://visualpharm.com/assets/607/Web%20Address-595b40b75ba036ed117d9e75.svg" alt="TCP/IP" width="48" height="48">
-      <img src="https://symbols.getvecta.com/stencil_28/34_dns.c3424055dc.svg" alt="DNS" width="48" height="48">
-      <img src="https://www.techopedia.com/wp-content/uploads/2023/08/VPN.svg" alt="VPN" width="48" height="48">
-      <img src="https://symbols.getvecta.com/stencil_23/18_iam-mfa-token.77039742f8.svg" alt="MFA" width="48" height="48">
-      <img src="https://www.svgrepo.com/show/444385/gui-firewall.svg" alt="Firewalls" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security" width="100" height="48">
+      <img src="https://www.svgrepo.com/show/295809/router.svg" alt="Router" title="LAN/WAN/WIFI" width="48" height="48">
+      <img src="https://visualpharm.com/assets/607/Web%20Address-595b40b75ba036ed117d9e75.svg" alt="TCP/IP" title="TCP/IP" width="48" height="48">
+      <img src="https://symbols.getvecta.com/stencil_28/34_dns.c3424055dc.svg" alt="DNS" title="DNS/DHCP" width="48" height="48">
+      <img src="https://www.techopedia.com/wp-content/uploads/2023/08/VPN.svg" alt="VPN" title="VPN" width="48" height="48">
+      <img src="https://symbols.getvecta.com/stencil_23/18_iam-mfa-token.77039742f8.svg" alt="MFA" title="MFA (Multi-Factor Authentication)" width="48" height="48">
+      <img src="https://www.svgrepo.com/show/444385/gui-firewall.svg" alt="Firewalls" title="Firewalls" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security" title="Symantec Endpoint Security (Antivirus)" width="100" height="48">
     </td>
   </tr>
   <tr>
@@ -36,17 +37,17 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" width="130" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" title="Entra ID" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" title="Exchange Online" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" title="Active Directory" width="130" height="48">
     </td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" alt="Outlook" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="SharePoint Online" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/onedrive-1.svg" alt="OneDrive for Business" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" alt="Outlook" title="Outlook" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" title="Teams" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="SharePoint Online" title="SharePoint Online" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/onedrive-1.svg" alt="OneDrive for Business" title="OneDrive for Business" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title="Office 365 / MS Office Suite" width="48" height="48">
    </td>
   </tr>
     <tr>
@@ -63,6 +64,19 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
       <img src="https://symbols.getvecta.com/stencil_27/66_remoteapp.ec6c630580.svg" alt="RDP" title="RDP (Remote Desktop Protocol)" width="48" height="40">
       <img src="https://cdn.worldvectorlogo.com/logos/team-viewer.svg" alt="TeamViewer" title="TeamViewer" width="125" height="48">
    </td>
+  </tr>
+    <tr>
+    <th>Ticketing System</th>
+    <th>Documentation</th>
+  </tr>
+  <tr>
+    <td>  
+      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" title="Jira Service Management" width="48" height="40">   
+   </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" title="Confluence (Knowledge Base)" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/team-viewer.svg" alt="TeamViewer" title="TeamViewer" width="125" height="48"> 
+    </td>
   </tr>
 </table>
 

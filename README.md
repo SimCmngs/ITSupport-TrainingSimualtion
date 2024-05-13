@@ -130,7 +130,7 @@ To address these challenges, the **IT manager** tasked me with developing a <ins
 
 Core technologies/devices to include:
 
-1. <ins>**Virtual Servers**</ins> - *(Vmware)* 
+✅ 1. <ins>**Virtual Servers**</ins> - *(Vmware)* 
 
 >   - <ins>**Domain** Controller</ins>:
 >     - *on-premises Active Directory environment*
@@ -141,7 +141,7 @@ Core technologies/devices to include:
 >   - <ins>Endpoint **Security**</ins>:
 >     - *Symantec's 'endpoint-managed' antivirus solution*
 
-2. <ins>**Virtual Workstations**</ins> - *(Vmware)*
+✅ 2. <ins>**Virtual Workstations**</ins> - *(Vmware)*
 
 >   - <ins>**Helpdesk** PC</ins>:
 >     - *dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)*
@@ -152,7 +152,7 @@ Core technologies/devices to include:
 >   - <ins>**Android** Smartphones</ins>:
 >     - *for mobile device management training*
 
-3. <ins>**Cloud Management Systems**</ins> - *(Microsoft 365)*   
+✅ 3. <ins>**Cloud Management Systems**</ins> - *(Microsoft 365)*   
 
 >   - <ins>**User** Management</ins>:
 >     - *Microsoft 365/Entra ID - access management to resources/applications*
@@ -163,7 +163,7 @@ Core technologies/devices to include:
 >   - <ins>**Office 365** Services</ins>:
 >     - *Teams, SharePoint Online, OneDrive, and MS Office Suite*
 
-4. <ins>**Ticketing Software**</ins> - *(Cloud Instance)*
+✅ 4. <ins>**Ticketing Software**</ins> - *(Cloud Instance)*
 
 >   - <ins>**Jira** Service Management</ins>:
 >     - *central platform for logging, prioritising and escalating support tickets*

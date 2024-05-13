@@ -281,7 +281,7 @@ Core technologies/devices to include:
 #### <ins>**3.1 - Training Exercises**</ins>
  - Designed a set of realistic IT support scenarios to be used as hands-on training exercises.
 
-<details><summary>1. Onboarding and Managing [user accounts]</summary>
+<details><summary>#1. Onboarding and Managing [user accounts]</summary>
 
       Exercise #1: Onboard new users into Active Directory
       > Tools: with RSAT-ADUC Console
@@ -297,35 +297,116 @@ Core technologies/devices to include:
 
 </details>
 
-<details><summary>2. Troubleshooting and Testing [network connections]</summary>
+<details><summary>#2. Troubleshooting and Testing [network connections]</summary>
 
-      Exercise: Troubleshoot network connectivity issues
+      Exercise #1: Troubleshoot network connectivity issues
       > Tools: with Device Manager, and CMD commands (ipconfig, ping, netsh)
       > Tasks: troubleshoot network issue with admin tools, configure TCP/IP addressing, enable DHCP service
 
-      Exercise: Resolve DNS resolution failures ("Domain could not be contacted" error)
+      Exercise #2: Resolve DNS resolution failures ("Domain could not be contacted" error)
       > Tool: with CMD commands (nslookup, ping, flushdns)
       > Tasks: test name resolution functionality with system tools, add/modify DNS records
 
-      Exercise: Configure VPN access for remote users
+      Exercise #3: Configure VPN access for remote users
       > Tools: with VPN server and SSL certificate
       > Tasks: configure VPN connection settings, install security certificate, autheticate remote users
 
 </details>
 
-<details><summary>3. Resolving [printer and file] sharing issues</summary>
+<details><summary>#3. Resolving [printer and file] sharing issues</summary>
 
-      Exercise: Set up a shared network printer
+      Exercise #1: Set up a shared network printer
       > Tools: with Server Manager, and Device Management
       > Tasks: remote into virtual server, install printer driver, configure sharing settings, test connection
 
-      Exercise: Resolve restrictive access to share files
+      Exercise #2: Resolve restrictive access to share files
       > Tools: with NTFS permissions, and security groups
       > Tasks: access security settings, review and modify file permissions
 
-      Exercise: Train users to share project files with permissions
+      Exercise #3: Train users to share project files with permissions
       > Tools: using OneDrive for Work
       > Tasks: access sharing settings, modify access permissions, generate URL link/send email 
 
 </details>
 
+<details><summary>#4. Deploying and Managing [security] solutions</summary>
+
+      Exercise #1: Deploy endpoint antivirus packages, to client devices
+      > Tools: with Symantec Endpoint Security manager
+      > Tasks: create deployment package, prepare client devices, remote-push installation 
+
+      Exercise #2: Implement firewall policies
+      > Tools: with Windows Defender Firewall
+      > Tasks: configure rules to allow/block network traffic, websites and applications
+
+      Exercise #3: Set up MFA sign-in for users
+      > Tools: using Microsoft 365 admin center, and MS Authenticator App
+      > Tasks: enable Multi-factor Authetication, set up authenticator app on smartphone, verify sign-in method
+
+</details>
+
+<details><summary>#5. Responding to [email]-related problems</summary>
+
+      Exercise #1: Troubleshoot mail flow / delivery failures
+      > Tools: with Exchange Online, and Outlook
+      > Tasks: trace messages, create security and email delivery rules
+
+      Exercise #2: Prevent phising/junk mail and block malware attachments
+      > Tools: with Exchange Online
+      > Tasks: create security rules, and test/verify rules are working
+
+      Exercise #3: Train users to implement email management processes
+      > Tools: for Outlook
+      > Tasks: create tags, and rules to automatically sort emails into organised folders
+
+</details>
+
+<details><summary>#6. Handling [mobile device] management tasks</summary>
+
+      Exercise #1: Enroll/Deploy devices for remote management
+      > Tools: with Intune admin center, and Windows Autopilot
+      > Tasks: set up deployment profiles, import hardware ID, auto-enroll or deploy devices
+
+      Exercise #2: Create device-compliant policies
+      > Tools: with Intune
+      > Tasks: configure policies (eg. security requirements), and assign policies to enrolled devices
+
+      Exercise #3: Deploy applications to remote devices
+      > Tools: with Intune
+      > Tasks: select/package apps, configure app installation settings, and deploy apps to devices
+
+</details>
+
+<details><summary>#7. Providing [Office 365] technical support </summary>
+
+      Exercise #1: Microsoft Teams support
+      > Tasks: set up hardware equipment (webcams, headsets), and guide users on Teams' features 
+               (background noise supression, screen sharing, virtual backgrounds)
+
+      Exercise #2: SharePoint Online support
+      > Tasks: build a communication site, manage user permissions, develop content (document library, etc)
+
+      Exercise #3: Office Suite support (Word/Excel/PowerPoint)
+      > Tasks: recover unsaved docs, repair/reinstall office apps, configure settings to meet users' preferences
+
+</details>
+
+---
+
+## 📊 Results:
+The updated process for creating support documentation with **AI-Scribe**, achieved the following results:
+- 📚 **Optimized Documentation Process**
+>    - (AI-generated user guides, will automate the enitre process, <ins>eliminating the need to manually take screenshots</ins>, edit them, <ins>and add step instructions</ins>).
+    
+- 📉 **Reduced Support Ticket Volume**
+>    - (Integration of visual-aids, will provide a more intuitive understanding of instructions, <ins>empowering users to resolve issues for themsleves</ins>).
+    
+- 😊 **Improved User Satisfaction**
+>    - (Cloud-hosted support docs, will enable automatic updates, giving users access to the most accurate information, resulting in <ins>fewer errors during troubleshooting.</ins>).
+
+---
+
+## 🎉 Conclusion:
+Automating support docs with AI-powered Scribe resulted in a streamlined documentation process, enhanced user experience, and improved version control.
+
+---

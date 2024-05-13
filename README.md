@@ -224,7 +224,7 @@ Core technologies/devices to include:
 
 ---
 
-#### <ins>**1.3 - Active Directory Implementation Plan**</ins>
+#### <ins>**1.3 - Active Directory Implementation**</ins>
 
 ---
 

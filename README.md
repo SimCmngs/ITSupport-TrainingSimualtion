@@ -20,7 +20,7 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
       <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" title="Mac OS" width="50" height="48">
-    </td>
+   </td>
     <td>
       <img src="https://www.svgrepo.com/show/295809/router.svg" alt="Router" title="LAN/WAN/WIFI" width="48" height="48">
       <img src="https://visualpharm.com/assets/607/Web%20Address-595b40b75ba036ed117d9e75.svg" alt="TCP/IP" title="TCP/IP" width="48" height="48">
@@ -50,7 +50,7 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
       <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title="Office 365 / MS Office Suite" width="48" height="48">
    </td>
   </tr>
-    <tr>
+  <tr>
     <th>Scripting & Automation</th>
     <th>Remote Desktop Support</th>
   </tr>
@@ -128,32 +128,204 @@ To address these challenges, the **IT manager** tasked me with developing a <ins
 
 > This will provide trainees with a safe, controlled platform to **develop their troubleshooting skills** and **gain practical experience**, better preparing them for the realities of our live service environment.
 
-**Core technologies/devices** to include:
+Core technologies/devices to include:
 
-1. <ins>**Virtual Servers** *(Vmware)*</ins>  
+1. <ins>**Virtual Servers** *(Vmware)*</ins>   
 
-   - <ins>**Domain** Controller</ins>: *on-premises Active Directory environment*
-   - <ins>**File/Print** Server</ins> *file sharing and print management*
-   - <ins>**VPN** Server</ins>: *secure-remote access to company resources*
-   - <ins>Endpoint **Security**</ins>: *Symantec's 'endpoint-managed' antivirus solution*
+>   - <ins>**Domain** Controller</ins>: *on-premises Active Directory environment*
+>   - <ins>**File/Print** Server</ins>: *file sharing and print management*
+>   - <ins>**VPN** Server</ins>: *secure-remote access to company resources*
+>   - <ins>Endpoint **Security**</ins>: *Symantec's 'endpoint-managed' antivirus solution*
 
 2. <ins>**Virtual Workstations** *(Vmware)*</ins>   
 
-   - <ins>**Helpdesk** PC</ins>: *dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)*
-   - <ins>**Windows** 10/11 PCs</ins>: *majority of the end-user's devices*
-   - <ins>**Mac OS** Client</ins>: *catering to the the needs of the Art and Design teams*
-   - <ins>**Android** Smartphones</ins>: *for mobile device management training*
+>   - <ins>**Helpdesk** PC</ins>: *dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)*
+>   - <ins>**Windows** 10/11 PCs</ins>: *majority of the end-user's devices*
+>   - <ins>**Mac OS** Client</ins>: *catering to the the needs of the Art and Design teams*
+>   - <ins>**Android** Smartphones</ins>: *for mobile device management training*
 
 3. <ins>**Cloud-based Management Systems** *(Microsoft 365)*</ins>   
 
-   - <ins>**User** Management</ins>: *Microsoft 365/Entra ID - access management to resources/applications*
-   - <ins>**Email** Management</ins>: *Exchange Online - administration of users' Outlook accounts*
-   - <ins>**Device** Management</ins>: *Intune - practicing device enrollmment and policy enforcement*
-   - <ins>**Office 365** Services</ins>: *Teams, SharePoint Online, OneDrive, and MS Office Suite*
+>   - <ins>**User** Management</ins>: *Microsoft 365/Entra ID - access management to resources/applications*
+>   - <ins>**Email** Management</ins>: *Exchange Online - administration of users' Outlook accounts*
+>   - <ins>**Device** Management</ins>: *Intune - practicing device enrollmment and policy enforcement*
+>   - <ins>**Office 365** Services</ins>: *Teams, SharePoint Online, OneDrive, and MS Office Suite*
 
 4. <ins>**Ticketing Software** *(Cloud Instance)*</ins>
 
-   - <ins>**Jira** Service Management</ins>: *central platform for logging, prioritising and escalating support tickets*
-   - <ins>**Confluence**</ins>: *knowledge base, for public-facing users guides and FAQs*
+>   - <ins>**Jira** Service Management</ins>: *central platform for logging, prioritising and escalating support tickets*
+>   - <ins>**Confluence**</ins>: *knowledge base, for public-facing users guides and FAQs*
 
+---
+
+# 💻 Implementation:
+
+### 1️⃣ Planning and Design:
+
+#### <ins>**1.1 - Scope and Requirements**</ins>
+
+<details><summary>Features and Functions</summary>
+  
+1. **Virtual Servers**  
+
+>   - **Domain Controller**: *manage user accounts, group policies, and network authentication*
+>   - **Print/File Server**: *centralised file storage/print services*
+>   - **VPN Server**: *secure access to the internal network*
+>   - **Endpoint Security**: *protects client devices from malware/security threats*
+
+2. **Client Workstations**   
+
+>   - **Helpdesk PC**: *remote management of client devices*
+>   - **Windows 10/11 Clients**: *end-user devices*
+>   - **Mac OS Client**
+>   - **Android Smartphones**: *mobile devices*
+
+3. **Management Systems**  
+
+>   - **Microsoft 365/Entra ID**: *manage cloud-user identites*
+>   - **Exchange Online/Outlook**: *email services*
+>   - **Intune**: *manage mobile devices*
+
+4. **Ticketing Software**
+
+>   - **Jira Service Management**: *IT support service, incident management and knowledge base platform.*
+
+</details>
+
+<details><summary>Costs</summary>
+
+   <ins>**Licenses**</ins>
+   - Microsoft 365 E5 
+   - Symantec Endpoint Security 
+
+   <ins>**Domain Name**</ins>
+   - vgmlab (Hostinger/GoDaddy)
+
+   <ins>**Operating Systems**</ins>
+   - Windows Server licenses
+   - Windows 10/11 licenses
+   - macOS 13 license
+
+</details>
+
+<details><summary>Resources</summary>
+
+   <ins>**Host Machine specs**</ins>:
+   - **CPU**: High-performance processor, *Minimum* 12 cores
+   - **RAM**: *Minimum* 64GB
+   - **Storage**: *Minimum* 16TB, SSD 
+   - **Networking**: Gigabit Ethernet connectivity, Fiber-optic
+
+</details>
+
+---
+
+#### <ins>**1.2 - Infrastructure Diagrams**</ins>
+
+---
+
+#### <ins>**1.3 - Active Directory Implementation Plan**</ins>
+
+---
+
+### 2️⃣ Deployment / Configuration:
+
+#### <ins>**2.1 - VMware Environment Setup**</ins>
+
+> - Created and configured virtual machines *(on-prem servers and devices)*.
+> - Installed operating systems and required services/applications.
+> - Established networking and connectivity between virtual machines.
+
+<details><summary>VMware Setup - Deployment Checklist</summary>
+
+</details>
+
+<details><summary>Active Directory - PowerShell Scripts</summary>
+
+</details>
+
+---
+
+#### <ins>**2.2 - Cloud Management Integration**</ins>
+
+> - Provisioned the Microsoft 365/Entra ID tenant to manage user accounts.
+> - Configured Exchange Online to manage clients' Outlook email accounts.
+> - Enrolled selected virtual machines/smartphones to Intune for remote device management.
+
+<details><summary>Microsoft 365 - PowerShell Commands</summary>
+
+</details>
+
+---
+
+#### <ins>**2.3 - Cloud Services Setup**</ins>
+
+> - Set up Teams for virtual collaboration *(video conferencing and voice calls)*
+> - Integrated OneDrive for cloud storage and file sharing
+> - Configured SharePoint Online for the Support Team's knowledge base and internal document sharing
+> - Deployed Microsoft Office suite applications to enrolled devices using Intune
+
+---
+
+#### <ins>**2.4 - Ticketing System Implementation**</ins>
+
+> - Created a Jira Service Management cloud instance, *using a custom domain & company email address*
+> - Set up the ticketing system, *including a cutomer portal with custom issue types*.
+> - Assigned agent/customer roles and permissions, *for Team Members/End-Users*.
+> - Set up the Confluence knowledge base, *for customer-facing user guides and FAQs*.
+
+---
+
+### 3️⃣ Training + Simulation Exercises:
+
+#### <ins>**3.1 - Training Exercices**</ins>
+ - Designed a set of realistic IT support scenarios to be used as hands-on training exercises.
+
+<details><summary>1. Onboarding and Managing [user accounts]</summary>
+
+      Exercise #1: Onboard new users into Active Directory
+      > Tools: with RSAT: ADUC Console
+      > Tasks: configure user properties/home folders, assign group memberships, and map network drives
+
+      Exercise #2: Automate user account management tasks
+      > Tools: using CSV files, and PowerShell commands   
+      > Tasks: provision accounts, assign licenses, and set users' location
+
+      Exercise #3: Resolve login issues and password resets
+      > Tool: with RSAT: ADUC Console
+      > Tasks: unlock user accounts, and reset passwords
+
+</details>
+
+<details><summary>2. Troubleshooting and Testing [network connections]</summary>
+
+      Exercise: Troubleshoot network connectivity issues
+      > Tools: with Device Manager, and CMD commands (ipconfig, ping, netsh)
+      > Tasks: troubleshoot network issue with admin tools, configure TCP/IP addressing, enable DHCP service
+
+      Exercise: Resolve DNS resolution failures ("Domain could not be contacted" error)
+      > Tool: with CMD commands (nslookup, ping, flushdns)
+      > Tasks: test name resolution functionality with system tools, add/modify DNS records
+
+      Exercise: Configure VPN access for remote users
+      > Tools: with VPN server and SSL certificate
+      > Tasks: configure VPN connection settings, install security certificate, autheticate remote users
+
+</details>
+
+<details><summary>3. Resolving [printer and file] sharing issues</summary>
+
+      Exercise: Set up a shared network printer
+      > Tools: with Server Manager, and Device Management
+      > Tasks: remote into virtual server, install printer driver, configure sharing settings, test connection
+
+      Exercise: Resolve restrictive access to share files
+      > Tools: with NTFS permissions, and security groups
+      > Tasks: access security settings, review and modify file permissions
+
+      Exercise: Train users to share project files with permissions
+      > Tools: using OneDrive for Work
+      > Tasks: access sharing settings, modify access permissions, generate URL link/send email 
+
+</details>
 

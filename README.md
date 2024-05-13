@@ -38,8 +38,10 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
   <tr>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" title="Entra ID" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" title="Entra ID (Azure Active Directory)" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" title="Exchange Online" width="48" height="48">
+      <img src="https://files.brandlogos.net/svg/6pHg9QdYGc/Microsoft_Intune-OnegDVqpb_brandlogos.net.svg" alt="Intune" title="Intune / Autopilot" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Azure" title="Microsoft Azure" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" title="Active Directory" width="130" height="48">
     </td>
     <td>
@@ -93,7 +95,7 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
 > - **Scripting/Automation:** `PowerShell`
 > - **Remote Support:** `TeamViewer` , `Quick Assist` , `RSAT` , `RDP`
 > - **Ticketing System:** `Jira` Service Management
-> - **Documentation:** Project Writing (`markdown/HTML`) , `Diagramming` , Troubleshooting Instructions/Support Guides , Video Tutorials
+> - **Documentation:** Project Writing (`markdown / HTML`) , `Diagramming` , Troubleshooting Instructions/Support Guides , Video Tutorials
 
 </details>
   

@@ -130,45 +130,61 @@ To address these challenges, the **IT manager** tasked me with developing a <ins
 
 Core technologies/devices to include:
 
-✅ 1. <ins>**Virtual Servers**</ins> - *(Vmware)* 
+✔️ #1. Virtual **Servers** - *(Vmware)* 
 
->   - <ins>**Domain** Controller</ins>:
->     - *on-premises Active Directory environment*
->   - <ins>**File/Print** Server</ins>:
->     - *file sharing and print management*
->   - <ins>**VPN** Server</ins>:
->     - *secure-remote access to company resources*
->   - <ins>Endpoint **Security**</ins>:
->     - *Symantec's 'endpoint-managed' antivirus solution*
+<details><summary>⚙️</summary>
 
-✅ 2. <ins>**Virtual Workstations**</ins> - *(Vmware)*
+   - <ins>**Domain** Controller</ins>:
+     - *on-premises Active Directory environment*
+   - <ins>**File/Print** Server</ins>:
+     - *file sharing and print management*
+   - <ins>**VPN** Server</ins>:
+     - *secure-remote access to company resources*
+   - <ins>Endpoint **Security**</ins>:
+     - *Symantec's 'endpoint-managed' antivirus solution*
 
->   - <ins>**Helpdesk** PC</ins>:
->     - *dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)*
->   - <ins>**Windows** 10/11 PCs</ins>:
->     - *majority of the end-user's devices*
->   - <ins>**Mac OS** Client</ins>:
->     - *catering to the the needs of the Art and Design teams*
->   - <ins>**Android** Smartphones</ins>:
->     - *for mobile device management training*
+</details>
 
-✅ 3. <ins>**Cloud Management Systems**</ins> - *(Microsoft 365)*   
+✔️ #2. Virtual **Workstations** - *(Vmware)*
 
->   - <ins>**User** Management</ins>:
->     - *Microsoft 365/Entra ID - access management to resources/applications*
->   - <ins>**Email** Management</ins>:
->     - *Exchange Online - administration of users' Outlook accounts*
->   - <ins>**Device** Management</ins>:
->     - *Intune - practicing device enrollmment and policy enforcement*
->   - <ins>**Office 365** Services</ins>:
->     - *Teams, SharePoint Online, OneDrive, and MS Office Suite*
+<details><summary>🖥️</summary>
 
-✅ 4. <ins>**Ticketing Software**</ins> - *(Cloud Instance)*
+   - <ins>**Helpdesk** PC</ins>:
+     - *dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)*
+   - <ins>**Windows** 10/11 PCs</ins>:
+     - *majority of the end-user's devices*
+   - <ins>**Mac OS** Client</ins>:
+     - *catering to the the needs of the Art and Design teams*
+   - <ins>**Android** Smartphones</ins>:
+     - *for mobile device management training*
 
->   - <ins>**Jira** Service Management</ins>:
->     - *central platform for logging, prioritising and escalating support tickets*
->   - <ins>**Confluence**</ins>:
->     - *knowledge base, for public-facing users guides and FAQs*
+</details>
+
+✔️ #3. Cloud **Management Systems** - *(Microsoft 365)*   
+
+<details><summary>☁️</summary>
+
+   - <ins>**User** Management</ins>:
+     - *Microsoft 365/Entra ID - access management to resources/applications*
+   - <ins>**Email** Management</ins>:
+     - *Exchange Online - administration of users' Outlook accounts*
+   - <ins>**Device** Management</ins>:
+     - *Intune - practicing device enrollmment and policy enforcement*
+   - <ins>**Office 365** Services</ins>:
+     - *Teams, SharePoint Online, OneDrive, and MS Office Suite*
+
+</details>
+
+✔️ #4. **Ticketing** Software - *(Cloud Instance)*
+
+<details><summary>💬</summary>
+
+   - <ins>**Jira** Service Management</ins>:
+     - *central platform for logging, prioritising and escalating support tickets*
+   - <ins>**Confluence**</ins>:
+     - *knowledge base, for public-facing users guides and FAQs*
+
+</details>
 
 ---
 

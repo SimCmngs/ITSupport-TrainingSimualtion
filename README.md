@@ -84,18 +84,14 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
   </tr>
 </table>
 
-<details><summary>Tools & Technologies - Listed</summary>
-  
-- <ins>**Virtualization & Systems:**</ins> `VMware` , `Windows 10/11` , Windows `Server OS` , `Mac OS` , `Android`
-- <ins>**Networking & Security:**</ins> `TCP/IP` , `DNS/DHCP` , `VPN` , `Symantec` Endpoint Security (Antivirus)
-- <ins>**Management Systems:**</ins> `Microsoft 365/Entra ID` , `Active Directory` , `Exchange` Online , `Intune` (MDM)
-- <ins>**Collaboration/Productivity:**</ins> `Outlook` , `Teams` , `SharePoint` Online , `OneDrive` , `MS Office` Suite
-- <ins>**Scripting/Automation:**</ins> `PowerShell`
-- <ins>**Remote Support:**</ins> `TeamViewer` , `Quick Assist` , `RSAT` , `RDP`
-- <ins>**Ticketing System:**</ins> `Jira` Service Management
-- <ins>**Documentation:**</ins> Project Writing (markdown/HTML) , Diagramming , Troubleshooting Instructions , Support Guides , Video Tutorials
-
-</details>
+> - **Virtualization & Systems:** `VMware` , `Windows 10/11` , Windows `Server OS` , `Mac OS` , `Android`
+> - **Networking & Security:** `TCP/IP` , `DNS/DHCP` , `VPN` , `Firewalls`, `Symantec` Endpoint Security (Antivirus)
+> - **Management Systems:** `Microsoft 365/Entra ID` , `Active Directory` , `Exchange` Online , `Intune` (MDM)
+> - **Collaboration/Productivity:** `Outlook` , `Teams` , `SharePoint` Online , `OneDrive` , `MS Office` Suite
+> - **Scripting/Automation:** `PowerShell`
+> - **Remote Support:** `TeamViewer` , `Quick Assist` , `RSAT` , `RDP`
+> - **Ticketing System:** `Jira` Service Management
+> - **Documentation:** Project Writing (`markdown/HTML`) , `Diagramming` , Troubleshooting Instructions/Support Guides , Video Tutorials
 
 ---
 

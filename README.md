@@ -106,9 +106,9 @@ The **IT Manager** has noticed a concerning decline in customer satisfaction rat
 - Prolonged **Resolution times**
 - Missed **Service Level Agreement** (SLA) **targets**
 
-> These metrics were the result of the **1st Line Support team** coming from external training programs, that were putting a <ins>focus on theory rather than hands-on expeirence</ins>.
+> These metrics were the result of the **1st Line Support team** coming from external training programs, putting a <ins>focus on theory rather than hands-on expeirence</ins>.
 >
-> This lack of hands-on experience left trainees <ins>unable to troubleshoot</ins> and resolve a wide range of cusomter's issues, which negatively affected our service desk's operational and support quality.
+> This lack of hands-on experience left trainees <ins>unable to troubleshoot and resolve</ins> a wide range of cusomter's issues, which negatively affected our service desk's operational and support quality.
 
 ---
 
@@ -130,9 +130,9 @@ To address these challenges, the **IT manager** tasked me with developing a <ins
 
 Core technologies/devices to include:
 
-✔️ #1. Virtual **Servers** - *(Vmware)* 
+- ✔️ #1. Virtual **Servers** - *(Vmware)* 
 
-<details><summary>⚙️</summary>
+<details><summary>⚙️ - {{{click for more info}}}</summary>
 
    - <ins>**Domain** Controller</ins>:
      - *on-premises Active Directory environment*
@@ -145,7 +145,7 @@ Core technologies/devices to include:
 
 </details>
 
-✔️ #2. Virtual **Workstations** - *(Vmware)*
+- ✔️ #2. Virtual **Workstations** - *(Vmware)*
 
 <details><summary>🖥️</summary>
 
@@ -160,7 +160,7 @@ Core technologies/devices to include:
 
 </details>
 
-✔️ #3. Cloud **Management Systems** - *(Microsoft 365)*   
+- ✔️ #3. Cloud **Management Systems** - *(Microsoft 365)*   
 
 <details><summary>☁️</summary>
 
@@ -175,7 +175,7 @@ Core technologies/devices to include:
 
 </details>
 
-✔️ #4. **Ticketing** Software - *(Cloud Instance)*
+- ✔️ #4. **Ticketing** Software - *(Cloud Instance)*
 
 <details><summary>💬</summary>
 

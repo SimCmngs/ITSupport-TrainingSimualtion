@@ -8,6 +8,112 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
 
 ## 🛠 Tools & Technologies:
 
+<table>
+  <tr>
+    <th>Virtualization & Systems</th>
+    <th>Networking & Security</th>
+    <th>Management Systems</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" width="40" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" width="40" height="48">
+      <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" width="50" height="48">
+    </td>
+    <td>
+      <img src="https://visualpharm.com/assets/607/Web%20Address-595b40b75ba036ed117d9e75.svg" alt="TCP/IP" width="48" height="48">
+      <img src="https://symbols.getvecta.com/stencil_28/34_dns.c3424055dc.svg" alt="DNS" width="48" height="48">
+      <img src="https://www.techopedia.com/wp-content/uploads/2023/08/VPN.svg" alt="VPN" width="48" height="48">
+      <img src="https://symbols.getvecta.com/stencil_23/18_iam-mfa-token.77039742f8.svg" alt="MFA" width="48" height="48">
+      <img src="https://www.svgrepo.com/show/444385/gui-firewall.svg" alt="Firewalls" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security" width="100" height="48">
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" width="130" height="48">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Collaboration/Productivity</th>
+    <th>Scripting & Automation</th>
+    <th>Remote Desktop Support</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" alt="Outlook" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="SharePoint Online" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/onedrive-1.svg" alt="OneDrive for Business" title="OneDrive for Business" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title= "MS Office Suite" width="48" height="48">
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" title="PowerShell" width="48" height="48">
+    </td>
+    <td>
+      <img src="https://www.svgrepo.com/show/366419/remote-desktop.svg" alt="Windows Quick Assist" title="Windows Quick Assist" width="48" height="48">
+      <img src="https://www.svgrepo.com/show/331746/rdp-remoteing-file.svg" alt="RDP" title="RDP" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/team-viewer.svg" alt="TeamViewer" title="TeamViewer" width="125" height="48">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Virtualization & Systems</th>
+    <th>Networking & Security</th>
+    <th>Management Systems</th>
+    <th>Collaboration/Productivity</th>
+    <th>Scripting & Automation</th>
+    <th>Remote Desktop Support</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" width="40" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" width="40" height="48">
+      <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" width="50" height="48">
+    </td>
+    <td>
+      <img src="https://visualpharm.com/assets/607/Web%20Address-595b40b75ba036ed117d9e75.svg" alt="TCP/IP" width="48" height="48">
+      <img src="https://symbols.getvecta.com/stencil_28/34_dns.c3424055dc.svg" alt="DNS" width="48" height="48">
+      <img src="https://www.techopedia.com/wp-content/uploads/2023/08/VPN.svg" alt="VPN" width="48" height="48">
+      <img src="https://symbols.getvecta.com/stencil_23/18_iam-mfa-token.77039742f8.svg" alt="MFA" width="48" height="48">
+      <img src="https://www.svgrepo.com/show/444385/gui-firewall.svg" alt="Firewalls" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security" width="100" height="48">
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" width="130" height="48">
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" alt="Outlook" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="SharePoint Online" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/onedrive-1.svg" alt="OneDrive for Business" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" width="48" height="48">
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="48" height="48">
+    </td>
+    <td>
+      <img src="https://www.svgrepo.com/show/366419/remote-desktop.svg" alt="Windows Quick Assist" width="48" height="48">
+      <img src="https://www.svgrepo.com/show/331746/rdp-remoteing-file.svg" alt="RDP" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/team-viewer.svg" alt="TeamViewer" width="125" height="48">
+    </td>
+  </tr>
+</table>
+
+
 <table> <tr> <th>Virtualization & Systems</th> <th>Networking & Security</th> <th>Management Systems</th> </tr> <tr> <td> <p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" title="Windows Server OS" width="40" height="48"> <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" title="Mac OS" width="50" height="48"> </p> </td> <td> <p align="left"> <img src="https://visualpharm.com/assets/607/Web%20Address-595b40b75ba036ed117d9e75.svg" alt="TCP/IP" title="TCP/IP" title="TCP/IP" width="48" height="48"> <img src="https://symbols.getvecta.com/stencil_28/34_dns.c3424055dc.svg" alt="DNS" title="DNS" title="DNS" width="48" height="48"> <img src="https://www.techopedia.com/wp-content/uploads/2023/08/VPN.svg" alt="VPN" title="VPN" title="VPN" width="48" height="48"> <img src="https://symbols.getvecta.com/stencil_23/18_iam-mfa-token.77039742f8.svg" alt="MFA (Multi-Factor Authentication)" title="MFA (Multi-Factor Authentication)" width="48" height="48"> <img src="https://www.svgrepo.com/show/444385/gui-firewall.svg" alt="Firewalls" title="Firewalls" width="48" height="48">  <img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security (Antivirus)" title="Symantec Endpoint Security (Antivirus)" width="100" height="48"> </p> </td> <td> <p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" title="Microsoft 365" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" title="Entra ID" title="Entra ID" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" title="Exchange Online" title="Exchange Online" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" title="Active Directory" title="Active Directory" width="130" height="48"> </tr> </table> 
 
 <table> <tr> <th>Collaboration/Productivity</th> <th>Scripting & Automation</th> <th>Remote Desktop Support</th> </tr> <tr> <td> <p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" alt="Outlook" title="Outlook" title="Outlook" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" title="Teams" title="Teams" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="SharePoint Online" title="SharePoint Online" title="SharePoint Online" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/onedrive-1.svg" alt="OneDrive for Business" title="OneDrive for Business" title="OneDrive for Business" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title="MS Office Suite" title="MS Office Suite" width="48" height="48"> </p> </td> <td> <p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" title="PowerShell" title="PowerShell" width="48" height="48"> </p> </td> <td> <p align="left"> <img src="https://www.svgrepo.com/show/366419/remote-desktop.svg" alt="Windows Quick Assist" title="Windows Quick Assist" title="Windows Quick Assist" width="48" height="48"> <img src="https://www.svgrepo.com/show/331746/rdp-remoteing-file.svg" alt="RDP" title="RDP" title="RDP" width="48" height="48"> <img src="https://cdn.worldvectorlogo.com/logos/team-viewer.svg" alt="TeamViewer" title="TeamViewer" title="TeamViewer" width="125" height="48"> </tr> </table> 

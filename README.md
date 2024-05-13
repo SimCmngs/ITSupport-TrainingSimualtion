@@ -84,6 +84,8 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
   </tr>
 </table>
 
+<details><summary>Tools & Technologies - LISTED</summary>
+
 > - **Virtualization & Systems:** `VMware` , `Windows 10/11` , Windows `Server OS` , `Mac OS` , `Android`
 > - **Networking & Security:** `TCP/IP` , `DNS/DHCP` , `VPN` , `Firewalls`, `Symantec` Endpoint Security (Antivirus)
 > - **Management Systems:** `Microsoft 365/Entra ID` , `Active Directory` , `Exchange` Online , `Intune` (MDM)
@@ -93,6 +95,8 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
 > - **Ticketing System:** `Jira` Service Management
 > - **Documentation:** Project Writing (`markdown/HTML`) , `Diagramming` , Troubleshooting Instructions/Support Guides , Video Tutorials
 
+</details>
+  
 ---
 
 # Introduction

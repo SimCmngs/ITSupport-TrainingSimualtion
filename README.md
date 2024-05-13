@@ -271,6 +271,64 @@ Domain/
 
 <details><summary>VMware Setup - Deployment Checklist</summary>
 
+1 - **PRE-DEPLOYMENT** CHECKLIST
+
+ > - [x] VMware - installed and up-to-date
+ > - [x] Download Windows Server and Windows 10/11 ISO files
+ > - [x] Allocate system resources (CPU, RAM, Storage)
+ > - [x] Plan network configuration (IP addressing, subnets, etc.)
+
+2 - **DEPLOYMENT** STEPS
+
+[1] <ins>Create **Windows Server** VMs</ins>
+
+> - Operating System: Windows Server 2019/2022
+> - Allocate 4 vCPUs, 8GB RAM, 100GB Storage
+> - Configure network settings (static IP, DNS, etc.)
+
+[2] <ins>Install **Active Directory** Domain Services</ins>
+   
+> - Open Server Manager and add the "Active Directory Domain Services" role
+> - Promote the server to a domain controller
+> - Configure the domain name *("vgmlab.uk")*
+
+[3] <ins>Configure **Member Servers**</ins>
+ 
+> - Join Member Servers to the Active Directory domain 
+> - Configure Server roles *(File/Print, VPN)*
+> - Setup Symantec Endpoint Security solution
+
+[4] <ins>Run **PowerShell** scripts</ins>
+
+> - Bulk import OUs, Security Groups, and Users - *BulkImportUsersGroupsOus.ps1*
+> - Assign group memberships to users - *AddUsersToSecurityGroups.ps1*
+> - Create file shares and set permissions - *CreateFileSharesAndPermissions.ps1*
+
+[5] <ins>Create **Windows 10/11 Client** VMs</ins>
+
+> - Operating System: Windows 10/11
+> - Allocate 2 vCPUs, 4GB RAM, 60GB Storage
+> - Join the client VMs to the Active Directory domain
+  
+[6] <ins>Test **Active Directory** Integration</ins>
+   
+> - Log in to the client VMs using domain credentials
+> - Verify user and group management
+> - Test file sharing and group policy application
+   
+[7] <ins>**Snapshot** the VMs</ins>
+
+> - Take a snapshot of the domain controller, member servers and client VMs
+> - Ensure the snapshots can be easily reverted for lab resets
+
+3 - **VALIDATION** CHECKLIST
+
+>  - [x] Windows Server VMs are operational 
+>  - [x] Active Directory Domain Services is installed and configured
+>  - [x] Windows 10/11 client VMs are joined to the domain
+>  - [x] User and group management, file sharing, and group policy are working as expected
+>  - [x] Snapshots of the VMs are taken for easy lab reset
+
 </details>
 
 <details><summary>Active Directory - PowerShell Scripts</summary>

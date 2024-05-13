@@ -130,31 +130,45 @@ To address these challenges, the **IT manager** tasked me with developing a <ins
 
 Core technologies/devices to include:
 
-1. <ins>**Virtual Servers** *(Vmware)*</ins>   
+1. <ins>**Virtual Servers**</ins> - *(Vmware)* 
 
->   - <ins>**Domain** Controller</ins>: *on-premises Active Directory environment*
->   - <ins>**File/Print** Server</ins>: *file sharing and print management*
->   - <ins>**VPN** Server</ins>: *secure-remote access to company resources*
->   - <ins>Endpoint **Security**</ins>: *Symantec's 'endpoint-managed' antivirus solution*
+>   - <ins>**Domain** Controller</ins>:
+>     - *on-premises Active Directory environment*
+>   - <ins>**File/Print** Server</ins>:
+>     - *file sharing and print management*
+>   - <ins>**VPN** Server</ins>:
+>     - *secure-remote access to company resources*
+>   - <ins>Endpoint **Security**</ins>:
+>     - *Symantec's 'endpoint-managed' antivirus solution*
 
-2. <ins>**Virtual Workstations** *(Vmware)*</ins>   
+2. <ins>**Virtual Workstations**</ins> - *(Vmware)*
 
->   - <ins>**Helpdesk** PC</ins>: *dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)*
->   - <ins>**Windows** 10/11 PCs</ins>: *majority of the end-user's devices*
->   - <ins>**Mac OS** Client</ins>: *catering to the the needs of the Art and Design teams*
->   - <ins>**Android** Smartphones</ins>: *for mobile device management training*
+>   - <ins>**Helpdesk** PC</ins>:
+>     - *dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)*
+>   - <ins>**Windows** 10/11 PCs</ins>:
+>     - *majority of the end-user's devices*
+>   - <ins>**Mac OS** Client</ins>:
+>     - *catering to the the needs of the Art and Design teams*
+>   - <ins>**Android** Smartphones</ins>:
+>     - *for mobile device management training*
 
-3. <ins>**Cloud-based Management Systems** *(Microsoft 365)*</ins>   
+3. <ins>**Cloud Management Systems**</ins> - *(Microsoft 365)*   
 
->   - <ins>**User** Management</ins>: *Microsoft 365/Entra ID - access management to resources/applications*
->   - <ins>**Email** Management</ins>: *Exchange Online - administration of users' Outlook accounts*
->   - <ins>**Device** Management</ins>: *Intune - practicing device enrollmment and policy enforcement*
->   - <ins>**Office 365** Services</ins>: *Teams, SharePoint Online, OneDrive, and MS Office Suite*
+>   - <ins>**User** Management</ins>:
+>     - *Microsoft 365/Entra ID - access management to resources/applications*
+>   - <ins>**Email** Management</ins>:
+>     - *Exchange Online - administration of users' Outlook accounts*
+>   - <ins>**Device** Management</ins>:
+>     - *Intune - practicing device enrollmment and policy enforcement*
+>   - <ins>**Office 365** Services</ins>:
+>     - *Teams, SharePoint Online, OneDrive, and MS Office Suite*
 
-4. <ins>**Ticketing Software** *(Cloud Instance)*</ins>
+4. <ins>**Ticketing Software**</ins> - *(Cloud Instance)*
 
->   - <ins>**Jira** Service Management</ins>: *central platform for logging, prioritising and escalating support tickets*
->   - <ins>**Confluence**</ins>: *knowledge base, for public-facing users guides and FAQs*
+>   - <ins>**Jira** Service Management</ins>:
+>     - *central platform for logging, prioritising and escalating support tickets*
+>   - <ins>**Confluence**</ins>:
+>     - *knowledge base, for public-facing users guides and FAQs*
 
 ---
 
@@ -319,6 +333,7 @@ Core technologies/devices to include:
 ```
 
 </details>
+
 ---
 
 #### <ins>**1.3 - Active Directory Implementation**</ins>

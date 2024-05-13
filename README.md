@@ -71,11 +71,15 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
   </tr>
   <tr>
     <td>  
-      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" title="Jira Service Management" width="48" height="40">   
+      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" title="Jira Service Management" width="48" height="48">   
    </td>
     <td>
+      <img src="https://www.techopedia.com/wp-content/uploads/2024/02/project-management.svg" alt="Project Writing" title="Project Writing (markdown/HTML)" width="48" height="48"> 
+      <img src="https://visualpharm.com/assets/444/User%20Manual-595b40b85ba036ed117dad4e.svg" alt="User Guide" title="User Guides" width="48" height="48">
+      <img src="https://www.svgrepo.com/show/356818/flow-chart.svg" alt="Diagramming" title="Diagramming (network architecture / process flows)" width="48" height="48">
+      <img src="https://visualpharm.com/assets/176/View%20Details-595b40b85ba036ed117dad8d.svg" alt="Troubleshooting" title="Troubleshooting Instructions" width="48" height="48">
+      <img src="https://www.svgrepo.com/show/82171/video-editing.svg" alt="Video Tutorials" title="Video Tutorials" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" title="Confluence (Knowledge Base)" width="48" height="48">
-      <img src="https://cdn.worldvectorlogo.com/logos/team-viewer.svg" alt="TeamViewer" title="TeamViewer" width="125" height="48"> 
     </td>
   </tr>
 </table>

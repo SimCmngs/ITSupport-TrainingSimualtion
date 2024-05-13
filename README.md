@@ -12,7 +12,6 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
   <tr>
     <th>Virtualization & Systems</th>
     <th>Networking & Security</th>
-    <th>Management Systems</th>
   </tr>
   <tr>
     <td>
@@ -30,12 +29,28 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
       <img src="https://www.svgrepo.com/show/444385/gui-firewall.svg" alt="Firewalls" title="Firewalls" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security" title="Symantec Endpoint Security (Antivirus)" width="100" height="48">
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Management Systems</th>
+    <th>Collaboration/Productivity</th>
+  </tr>
+  <tr>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" title="Entra ID" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" title="Exchange Online" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" title="Active Directory" width="130" height="48">
     </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" alt="Outlook" title="Outlook" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" title="Teams" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="SharePoint Online" title="SharePoint Online" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/onedrive-1.svg" alt="OneDrive for Business" title="OneDrive for Business" width="48" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title= "MS Office Suite" width="48" height="48">
+   </td>
   </tr>
 </table>
 

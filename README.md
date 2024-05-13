@@ -226,6 +226,39 @@ Core technologies/devices to include:
 
 #### <ins>**1.3 - Active Directory Implementation**</ins>
 
+<details><summary>Active Directory "OU Structure" Design</summary>
+
+```
+Domain/
+├── VgmLab Admins/
+│   ├── Domain Admins/
+│   ├── Server Admins/
+│   └── Workstation Admins/
+├── VgmLab Computers/
+│   ├── Client Workstations_MAC/
+│   ├── Client Workstations_PC/
+│   └── Helpdesk Workstations
+├── VgmLab Groups/
+│   ├── access_Administrative-Control
+│   ├── access_Applications
+│   ├── access_Printers
+│   ├── access_ShareFiles
+│   ├── disable_System-Apps
+│   └── map_Network-Drives
+├── VgmLab Servers/
+└── VgmLab Users/
+    ├── Art/
+    ├── Audio/
+    ├── Design/
+    ├── IT/
+    ├── Production/
+    ├── Programming/
+    ├── QA/
+    └── Technical Art/
+```
+  
+</details>
+
 ---
 
 ### 2️⃣ Deployment / Configuration:

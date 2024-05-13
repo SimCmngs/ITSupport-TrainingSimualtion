@@ -222,6 +222,103 @@ Core technologies/devices to include:
 
 #### <ins>**1.2 - Infrastructure Diagrams**</ins>
 
+<details><summary>Virtual Machine Configurations</summary>
+
+```
++---------------------------+
+|   Virtual Machine (VM)   |
+|      Configurations      |
++---------------------------+
+
+┌───────────────────────────┐
+│        Domain Controller  │
+│ (Windows Server 2022)     │
+│ Hardware:                 │
+│ - 4 vCPUs                 │
+│ - 16GB RAM                │
+│ - 100GB Disk              │
+│ Software & Services:      │
+│ - Active Directory Domain │
+│   Services                │
+│ - DNS Server              │
+│ - DHCP Server             │
+└───────────────────────────┘
+
+┌───────────────────────────┐
+│           Web Server      │
+│ (Windows Server 2022)     │
+│ Hardware:                 │
+│ - 2 vCPUs                 │
+│ - 8GB RAM                 │
+│ - 80GB Disk               │
+│ Software & Services:      │
+│ - IIS Web Server          │
+│ - ASP.NET Core Runtime    │
+│ - SQL Server Express      │
+└───────────────────────────┘
+
+┌───────────────────────────┐
+│           File Server     │
+│ (Windows Server 2022)     │
+│ Hardware:                 │
+│ - 3 vCPUs                 │
+│ - 12GB RAM                │
+│ - 500GB Disk (Expandable) │
+│ Software & Services:      │
+│ - Distributed File System │
+│ - Backup & Restore        │
+└───────────────────────────┘
+
+┌───────────────────────────┐
+│       Application Server  │
+│ (Windows Server 2022)     │
+│ Hardware:                 │
+│ - 4 vCPUs                 │
+│ - 16GB RAM                │
+│ - 120GB Disk              │
+│ Software & Services:      │
+│ - .NET Framework          │
+│ - Java Runtime            │
+│ - Tomcat Application      │
+└───────────────────────────┘
+
+┌───────────────────────────┐
+│       Client Workstation  │
+│ (Windows 10)              │
+│ Hardware:                 │
+│ - 2 vCPUs                 │
+│ - 8GB RAM                 │
+│ - 80GB Disk               │
+│ Software & Services:      │
+│ - Microsoft Office 365    │
+│ - Adobe Creative Cloud    │
+│ - Endpoint Protection     │
+└───────────────────────────┘
+
+┌───────────────────────────┐
+│          Network Devices  │
+│                           │
+│ Hardware:                 │
+│ - Cisco Catalyst 2960     │
+│   Switch (2)              │
+│   - 24 Ports              │
+│   - 1GB RAM               │
+│   - 128MB Flash           │
+│ - Cisco ASA 5505 Firewall │
+│   - 2 vCPUs               │
+│   - 1GB RAM               │
+│   - 1GB Flash             │
+│ Software & Services:      │
+│ - Cisco IOS 15.2          │
+│ - Cisco ASDM              │
+│ - Routing & Switching     │
+│ - Firewall Rules & Policies│
+└───────────────────────────┘
+
+
+```
+
+</details>
 ---
 
 #### <ins>**1.3 - Active Directory Implementation**</ins>

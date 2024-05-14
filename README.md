@@ -352,15 +352,15 @@ Domain/
 ├── VgmLab Computers/
 │   ├── Client Workstations_MAC/
 │   ├── Client Workstations_PC/
-│   └── Helpdesk Workstations
+│   └── Helpdesk Workstations/
 
 ├── VgmLab Groups/
-│   ├── access_Administrative-Control
-│   ├── access_Applications
-│   ├── access_Printers
-│   ├── access_ShareFiles
-│   ├── disable_System-Apps
-│   └── map_Network-Drives
+│   ├── access_Administrative-Control/
+│   ├── access_Applications/
+│   ├── access_Printers/
+│   ├── access_ShareFiles/
+│   ├── disable_System-Apps/
+│   └── map_Network-Drives/
 
 ├── VgmLab Servers/
 
@@ -448,8 +448,8 @@ Folders/
 
 ├── IT_data/
 │   ├── User Profiles
-│   ├── Software 
-│   ├── Scripts 
+│   ├── Software
+│   ├── Scripts
 │   ├── Backups
 │   ├── Security Logs
 │   └── Documentation

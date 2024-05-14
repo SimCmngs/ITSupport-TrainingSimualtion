@@ -561,6 +561,12 @@ Folders/
 
 <details><summary>Active Directory - PowerShell Scripts</summary>
 
+`PowerShell` -scripts
+
+[BulkImportUsersGroupsOus.ps1](BulkImportUsersGroupsOus.ps1)
+
+[AddUsersToSecurityGroup.ps1](AddUsersToSecurityGroup.ps1)
+
 [CreateFileSharesAndPermissions.ps1](CreateFileSharesAndPermissions.ps1)
 
 </details>

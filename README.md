@@ -501,24 +501,24 @@ Folders/
 
 ## 1 - **PRE-DEPLOYMENT** CHECKLIST
 
- - [x] VMware - installed and up-to-date
- - [x] Download Windows Server and Windows 10/11 ISO files
- - [x] Allocate system resources *(CPU, RAM, Storage)*
- - [x] Plan network configuration *(IP addressing, subnets, etc.)*
+ - [x] VMware - *installed and up-to-date* ✔️
+ - [x] Download Windows Server + Windows 10/11 ISO files ✔️
+ - [x] Allocate system resources *(CPU, RAM, Storage)* ✔️
+ - [x] Plan network configuration *(IP addressing, subnets, etc.)* ✔️
 
 ## 2 - **DEPLOYMENT** STEPS
 
 ### 1. <ins>Create **Windows Server** VMs</ins>
 
 > - Operating System: Windows Server 2019/2022
-> - Allocate 4 vCPUs, 8GB RAM, 100GB Storage
+> - Allocate 2 vCPUs, 4GB RAM, 80GB Storage
 > - Configure network settings *(static IP, DNS, etc.)*
 
 ### 2. <ins>Install **Active Directory** Domain Services</ins>
    
-> - Open Server Manager and add the "Active Directory Domain Services" role
-> - Promote the server to a domain controller
-> - Configure the domain name *("vgmlab.uk")*
+> - Open Server Manager / add the "Active Directory Domain Services" role
+> - Promote server to a domain controller
+> - Configure domain name *("vgmlab.uk")*
 
 ### 3. <ins>Configure **Member Servers**</ins>
  
@@ -535,27 +535,27 @@ Folders/
 ### 5. <ins>Create **Windows 10/11 Client** VMs</ins>
 
 > - Operating System: Windows 10/11
-> - Allocate 2 vCPUs, 4GB RAM, 60GB Storage
+> - Allocate 2 vCPUs, 8GB RAM, 100GB Storage
 > - Join the client VMs to the Active Directory domain
   
 ### 6. <ins>Test **Active Directory** Integration</ins>
    
-> - Log in to the client VMs using domain credentials
+> - Log into client VMs, using domain credentials
 > - Verify user and group management
 > - Test file sharing and group policy application
    
 ### 7. <ins>**Snapshot** the VMs</ins>
 
-> - Take a snapshot of the domain controller, member servers and client VMs
-> - Ensure the snapshots can be easily reverted for lab resets
+> - Take snapshots of the domain controller, member servers and client VMs
+> - Test snapshots - *can be easily reverted for lab resets*
 
 ## 3 - **VALIDATION** CHECKLIST
 
-- [x] Windows Server VMs are operational 
-- [x] Active Directory Domain Services is installed and configured
-- [x] Windows 10/11 client VMs are joined to the domain
-- [x] User and group management, file sharing, and group policy are working as expected
-- [x] Snapshots of the VMs are taken for easy lab reset
+- [x] Windows Server VMs ✅ - operational 
+- [x] Active Directory Domain Services ✅ - *installed and configured*
+- [x] Windows 10/11 client VMs ✅ - *joined to the domain*
+- [x] User and group management, file sharing, and group policy ✅ - *working as expected*
+- [x] Snapshots of VMs taken ✅ - *for easy lab reset*
 
 </details>
 

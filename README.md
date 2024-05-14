@@ -253,9 +253,9 @@ Core technologies/devices to include:
 
 #### <ins>**1.2 - Infrastructure Diagrams**</ins>
 
-<details><summary>Network Diagrams</summary>
+<details><summary>Network Diagram</summary>
 
-![Diagram](IMG_Virtual-Infra-Diagram2.png)
+![Diagram](IMG_v_Infra-Network-Diagram.png)
 
 </details>
 

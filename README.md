@@ -581,6 +581,68 @@ Folders/
 
 <details><summary>Microsoft 365 - PowerShell Commands</summary>
 
+```powershell
+
+# Install and import Microsoft.Graph module
+Install-Module Microsoft.Graph -Force
+Set-ExecutionPolicy RemoteSigned -Scope Process -Force
+Import-Module Microsoft.Graph
+
+# Connect to Microsoft Graph API
+Connect-MgGraph -Scopes "Directory.AccessAsUser.All"
+
+# Define the path to the .csv file
+$csvPath = "C:\path\to\your\file.csv"
+
+# Import the .csv file
+$users = Import-Csv -Path $csvPath
+
+# Create new Microsoft 365 users and store users' information in variables
+$userIds = @()
+foreach ($user in $users) {
+    $newUserParams = @{
+        UserPrincipalName          = $user.Username + "@example.com"  # Use your verified domain name here
+        DisplayName                = $user."Display name"
+        GivenName                  = $user."First name"
+        Surname                    = "Lastname"  
+        AccountEnabled             = $true
+        MailNickname               = $user.Username  # Use the Username field as mailNickname
+        Department                 = "YourDepartment"  # Optional: Add any other user properties you want to set
+        PasswordProfile            = @{
+            Password                = "Passw0rd!"  # Replace with the actual password for the user
+            ForceChangePasswordNextSignIn = $true  # Optional: Set to $true if you want the user to change their password at the next sign-in
+        }
+    }
+    
+    $newUser = New-MgUser @newUserParams
+    $userIds += $newUser.Id
+}
+
+# Assign users' usage location
+$userIds | ForEach-Object {
+    Update-MgUser -UserId $_ -UsageLocation "GB"
+}
+
+# Retrieve license information
+$subscription = Get-MgSubscribedSku -All | Where-Object { $_.SkuPartNumber -eq "SPE_E5" }
+$addLicenses = @(@{ SkuId = $subscription.SkuId })
+
+# Assign E5 licenses to users
+$userIds | ForEach-Object {
+    Set-MgUserLicense -UserId $_ -AddLicense $addLicenses -RemoveLicenses @()
+}
+
+# Create a new Microsoft 365 group
+# Rename/Replace [Group Name], [Description], [groupname]
+$newGroup = New-MgGroup -DisplayName "[Group Name]" -Description "[Description]" -MailEnabled:$False -MailNickName '[groupname]' -SecurityEnabled
+
+# Add users to the group
+$userIds | ForEach-Object {
+    New-MgGroupMember -GroupId $newGroup.Id -DirectoryObjectId $_
+}
+
+```
+
 </details>
 
 ---

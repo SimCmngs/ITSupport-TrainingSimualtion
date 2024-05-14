@@ -561,6 +561,9 @@ Folders/
 
 <details><summary>Active Directory - PowerShell Scripts</summary>
 
+- 
+- CreateFileSharesAndPermissions.ps1
+
 </details>
 
 ---

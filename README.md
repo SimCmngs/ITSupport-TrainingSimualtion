@@ -348,10 +348,12 @@ Domain/
 │   ├── Domain Admins/
 │   ├── Server Admins/
 │   └── Workstation Admins/
+
 ├── VgmLab Computers/
 │   ├── Client Workstations_MAC/
 │   ├── Client Workstations_PC/
 │   └── Helpdesk Workstations
+
 ├── VgmLab Groups/
 │   ├── access_Administrative-Control
 │   ├── access_Applications
@@ -359,7 +361,9 @@ Domain/
 │   ├── access_ShareFiles
 │   ├── disable_System-Apps
 │   └── map_Network-Drives
+
 ├── VgmLab Servers/
+
 └── VgmLab Users/
     ├── Art/
     ├── Audio/
@@ -371,6 +375,53 @@ Domain/
     └── Technical Art/
 ```
   
+</details>
+
+<details><summary>Active Directory "Group Policy (GPO)" Design</summary>
+
+```
+Domain
+├── Group Policy: COMPUTER-Local-Admin-Permissions
+
+├── OU: VgmLab Admins
+│   ├── Sub OU: Domain Admins
+│   ├── Sub OU: Server Admins
+│   └── Sub OU: Workstation Admins
+│       ├── Group Policy: USER-Map-Network-Drives
+│       └── Group Policy: USER-Access-Shared-Printers
+
+├── OU: VgmLab Computers
+│   ├── Group Policy: COMPUTER-Network-Discovery-enable
+│   ├── Sub OU: Client Workstations_MAC
+│   ├── Sub OU: Client Workstations_PC
+│   │   └── Group Policy: COMPUTER-BlockAccess-to-Applications
+│   └── Sub OU: Helpdesk Workstations
+
+├── OU: VgmLab Groups
+│   ├── Sub OU: access_Administrative-Control
+│   ├── Sub OU: access_Applications
+│   ├── Sub OU: access_Printers
+│   ├── Sub OU: access_ShareFiles
+│   ├── Sub OU: disable_System-Apps
+│   └── Sub OU: map_Network-Drives
+
+├── OU: VgmLab Servers
+
+└── OU: VgmLab Users
+    ├── Group Policy: USER-Map-Network-Drives
+    ├── Group Policy: USER-Deploy-App
+    ├── Group Policy: USER-Access-Shared-Printers
+    ├── Sub OU: Art
+    ├── Sub OU: Audio
+    ├── Sub OU: Design
+    ├── Sub OU: IT
+    ├── Sub OU: Production
+    ├── Sub OU: Programming
+    ├── Sub OU: QA
+    └── Sub OU: Technical Art
+
+```
+
 </details>
 
 ---

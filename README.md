@@ -381,20 +381,20 @@ Domain/
 
 ```
 Domain
-├── Group Policy: COMPUTER-Local-Admin-Permissions
+├── GROUP POLICY: COMPUTER-Local-Admin-Permissions
 
 ├── OU: VgmLab Admins
 │   ├── Sub OU: Domain Admins
 │   ├── Sub OU: Server Admins
 │   └── Sub OU: Workstation Admins
-│       ├── Group Policy: USER-Map-Network-Drives
-│       └── Group Policy: USER-Access-Shared-Printers
+│       ├── GROUP POLICY: USER-Map-Network-Drives
+│       └── GROUP POLICY: USER-Access-Shared-Printers
 
 ├── OU: VgmLab Computers
-│   ├── Group Policy: COMPUTER-Network-Discovery-enable
+│   ├── GROUP POLICY: COMPUTER-Network-Discovery-enable
 │   ├── Sub OU: Client Workstations_MAC
 │   ├── Sub OU: Client Workstations_PC
-│   │   └── Group Policy: COMPUTER-BlockAccess-to-Applications
+│   │   └── GROUP POLICY: COMPUTER-BlockAccess-to-Applications
 │   └── Sub OU: Helpdesk Workstations
 
 ├── OU: VgmLab Groups
@@ -408,9 +408,9 @@ Domain
 ├── OU: VgmLab Servers
 
 └── OU: VgmLab Users
-    ├── Group Policy: USER-Map-Network-Drives
-    ├── Group Policy: USER-Deploy-App
-    ├── Group Policy: USER-Access-Shared-Printers
+    ├── GROUP POLICY: USER-Map-Network-Drives
+    ├── GROUP POLICY: USER-Deploy-App
+    ├── GROUP POLICY: USER-Access-Shared-Printers
     ├── Sub OU: Art
     ├── Sub OU: Audio
     ├── Sub OU: Design
@@ -420,6 +420,63 @@ Domain
     ├── Sub OU: QA
     └── Sub OU: Technical Art
 
+```
+
+</details>
+
+<details><summary>Active Directory "File Shares (NTFS)" Layout</summary>
+
+```
+Folders/
+├── Art_data/
+│   ├── Concept Art/
+│   ├── Character Art/
+│   ├── Environment Art/
+│   ├── UI Art/
+│   └── Marketing Art/
+
+├── Audio_data/
+│   ├── Music/
+│   ├── Sound Effects/
+│   └── Voiceovers/
+
+├── Design_data/
+│   ├── Game Design Documents/
+│   ├── Level Design/
+│   ├── Narrative Design/
+│   └── User Interface Design/
+
+├── IT_data/
+│   ├── User Profiles
+│   ├── Software 
+│   ├── Scripts 
+│   ├── Backups
+│   ├── Security Logs
+│   └── Documentation
+
+├── Production_data/
+│   ├── Project Management/
+│   ├── Schedules/
+│   ├── Budgets/
+│   └── Marketing Plans/
+
+├── Programming_data/
+│   ├── Source Code/
+│   ├── Libraries/
+│   ├── Tools/
+│   ├── Assets/
+│   └── Documentation/
+
+├── QA_data/
+│   ├── Test Plans/
+│   ├── Bug Reports/
+│   └── Playtesting Feedback/
+
+└── Technical Art_data/
+    ├── Shaders/
+    ├── Lighting/
+    ├── Particles/
+    └── Animation/
 ```
 
 </details>

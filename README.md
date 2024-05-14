@@ -261,7 +261,7 @@ Core technologies/devices to include:
 
 <details><summary>Virtual Machine Configurations</summary>
 
-```
+```yaml
 +---------------------------+
 |   Virtual Machine (VM)   |
 |      Configurations      |
@@ -348,19 +348,19 @@ Core technologies/devices to include:
 
 <details><summary>Active Directory "OU Structure" Design</summary>
 
-```
+```yaml
 Domain/
-├── VgmLab Admins/
+├── VgmLab Admins:
 │   ├── Domain Admins/
 │   ├── Server Admins/
 │   └── Workstation Admins/
 
-├── VgmLab Computers/
+├── VgmLab Computers:
 │   ├── Client Workstations_MAC/
 │   ├── Client Workstations_PC/
 │   └── Helpdesk Workstations/
 
-├── VgmLab Groups/
+├── VgmLab Groups:
 │   ├── access_Administrative-Control/
 │   ├── access_Applications/
 │   ├── access_Printers/
@@ -368,9 +368,9 @@ Domain/
 │   ├── disable_System-Apps/
 │   └── map_Network-Drives/
 
-├── VgmLab Servers/
+├── VgmLab Servers:
 
-└── VgmLab Users/
+└── VgmLab Users:
     ├── Art/
     ├── Audio/
     ├── Design/
@@ -385,46 +385,46 @@ Domain/
 
 <details><summary>Active Directory "Group Policy (GPO)" Design</summary>
 
-```
+```yaml
 Domain
 ├── GROUP POLICY: COMPUTER-Local-Admin-Permissions
 
-├── OU: VgmLab Admins
-│   ├── Sub OU: Domain Admins
-│   ├── Sub OU: Server Admins
-│   └── Sub OU: Workstation Admins
+├── OU- VgmLab Admins
+│   ├── Sub OU- Domain Admins
+│   ├── Sub OU- Server Admins
+│   └── Sub OU- Workstation Admins
 │       ├── GROUP POLICY: USER-Map-Network-Drives
 │       └── GROUP POLICY: USER-Access-Shared-Printers
 
-├── OU: VgmLab Computers
+├── OU- VgmLab Computers
 │   ├── GROUP POLICY: COMPUTER-Network-Discovery-enable
-│   ├── Sub OU: Client Workstations_MAC
-│   ├── Sub OU: Client Workstations_PC
+│   ├── Sub OU- Client Workstations_MAC
+│   ├── Sub OU- Client Workstations_PC
 │   │   └── GROUP POLICY: COMPUTER-BlockAccess-to-Applications
-│   └── Sub OU: Helpdesk Workstations
+│   └── Sub OU- Helpdesk Workstations
 
-├── OU: VgmLab Groups
-│   ├── Sub OU: access_Administrative-Control
-│   ├── Sub OU: access_Applications
-│   ├── Sub OU: access_Printers
-│   ├── Sub OU: access_ShareFiles
-│   ├── Sub OU: disable_System-Apps
-│   └── Sub OU: map_Network-Drives
+├── OU- VgmLab Groups
+│   ├── Sub OU- access_Administrative-Control
+│   ├── Sub OU- access_Applications
+│   ├── Sub OU- access_Printers
+│   ├── Sub OU- access_ShareFiles
+│   ├── Sub OU- disable_System-Apps
+│   └── Sub OU- map_Network-Drives
 
-├── OU: VgmLab Servers
+├── OU- VgmLab Servers
 
-└── OU: VgmLab Users
+└── OU- VgmLab Users
     ├── GROUP POLICY: USER-Map-Network-Drives
     ├── GROUP POLICY: USER-Deploy-App
     ├── GROUP POLICY: USER-Access-Shared-Printers
-    ├── Sub OU: Art
-    ├── Sub OU: Audio
-    ├── Sub OU: Design
-    ├── Sub OU: IT
-    ├── Sub OU: Production
-    ├── Sub OU: Programming
-    ├── Sub OU: QA
-    └── Sub OU: Technical Art
+    ├── Sub OU- Art
+    ├── Sub OU- Audio
+    ├── Sub OU- Design
+    ├── Sub OU- IT
+    ├── Sub OU- Production
+    ├── Sub OU- Programming
+    ├── Sub OU- QA
+    └── Sub OU- Technical Art
 
 ```
 
@@ -432,27 +432,27 @@ Domain
 
 <details><summary>Active Directory "File Shares (NTFS)" Layout</summary>
 
-```
+```yaml
 Folders/
-├── Art_data/
+├── Art_data:
 │   ├── Concept Art/
 │   ├── Character Art/
 │   ├── Environment Art/
 │   ├── UI Art/
 │   └── Marketing Art/
 
-├── Audio_data/
+├── Audio_data:
 │   ├── Music/
 │   ├── Sound Effects/
 │   └── Voiceovers/
 
-├── Design_data/
+├── Design_data:
 │   ├── Game Design Documents/
 │   ├── Level Design/
 │   ├── Narrative Design/
 │   └── User Interface Design/
 
-├── IT_data/
+├── IT_data:
 │   ├── User Profiles
 │   ├── Software
 │   ├── Scripts
@@ -460,25 +460,25 @@ Folders/
 │   ├── Security Logs
 │   └── Documentation
 
-├── Production_data/
+├── Production_data:
 │   ├── Project Management/
 │   ├── Schedules/
 │   ├── Budgets/
 │   └── Marketing Plans/
 
-├── Programming_data/
+├── Programming_data:
 │   ├── Source Code/
 │   ├── Libraries/
 │   ├── Tools/
 │   ├── Assets/
 │   └── Documentation/
 
-├── QA_data/
+├── QA_data:
 │   ├── Test Plans/
 │   ├── Bug Reports/
 │   └── Playtesting Feedback/
 
-└── Technical Art_data/
+└── Technical Art_data:
     ├── Shaders/
     ├── Lighting/
     ├── Particles/
@@ -503,8 +503,8 @@ Folders/
 
  - [x] VMware - installed and up-to-date
  - [x] Download Windows Server and Windows 10/11 ISO files
- - [x] Allocate system resources (CPU, RAM, Storage)
- - [x] Plan network configuration (IP addressing, subnets, etc.)
+ - [x] Allocate system resources *(CPU, RAM, Storage)*
+ - [x] Plan network configuration *(IP addressing, subnets, etc.)*
 
 ## 2 - **DEPLOYMENT** STEPS
 
@@ -512,7 +512,7 @@ Folders/
 
 > - Operating System: Windows Server 2019/2022
 > - Allocate 4 vCPUs, 8GB RAM, 100GB Storage
-> - Configure network settings (static IP, DNS, etc.)
+> - Configure network settings *(static IP, DNS, etc.)*
 
 ### 2. <ins>Install **Active Directory** Domain Services</ins>
    
@@ -561,7 +561,7 @@ Folders/
 
 <details><summary>Active Directory - PowerShell Scripts</summary>
 
-[CreateFileSharesAndPermissions Script](CreateFileSharesAndPermissions.ps1)
+[CreateFileSharesAndPermissions.ps1](CreateFileSharesAndPermissions.ps1)
 
 </details>
 

@@ -261,90 +261,75 @@ Core technologies/devices to include:
 |      Configurations      |
 +---------------------------+
 
-┌───────────────────────────┐
-│        Domain Controller  │
-│ (Windows Server 2022)     │
-│ Hardware:                 │
-│ - 4 vCPUs                 │
-│ - 16GB RAM                │
-│ - 100GB Disk              │
-│ Software & Services:      │
-│ - Active Directory Domain │
-│   Services                │
-│ - DNS Server              │
-│ - DHCP Server             │
-└───────────────────────────┘
 
-┌───────────────────────────┐
-│           Web Server      │
-│ (Windows Server 2022)     │
-│ Hardware:                 │
-│ - 2 vCPUs                 │
-│ - 8GB RAM                 │
-│ - 80GB Disk               │
-│ Software & Services:      │
-│ - IIS Web Server          │
-│ - ASP.NET Core Runtime    │
-│ - SQL Server Express      │
-└───────────────────────────┘
++-------------------------------+  
+|        Domain Controller     |  
+| (Windows Server 2022)        |  
 
-┌───────────────────────────┐
-│           File Server     │
-│ (Windows Server 2022)     │
-│ Hardware:                 │
-│ - 3 vCPUs                 │
-│ - 12GB RAM                │
-│ - 500GB Disk (Expandable) │
-│ Software & Services:      │
-│ - Distributed File System │
-│ - Backup & Restore        │
-└───────────────────────────┘
+| Hardware:                    | 
+| - 2 vCPUs                    |  
+| - 4GB RAM                    |  
+| - 80GB Disk                  |  
 
-┌───────────────────────────┐
-│       Application Server  │
-│ (Windows Server 2022)     │
-│ Hardware:                 │
-│ - 4 vCPUs                 │
-│ - 16GB RAM                │
-│ - 120GB Disk              │
-│ Software & Services:      │
-│ - .NET Framework          │
-│ - Java Runtime            │
-│ - Tomcat Application      │
-└───────────────────────────┘
+| Software & Services:         |  
+| - Active Directory Domain    |  
+|   Services                   |  
+| - DNS Server                 | 
+| - DHCP Server                |  
++-------------------------------+  
 
-┌───────────────────────────┐
-│       Client Workstation  │
-│ (Windows 10)              │
-│ Hardware:                 │
-│ - 2 vCPUs                 │
-│ - 8GB RAM                 │
-│ - 80GB Disk               │
-│ Software & Services:      │
-│ - Microsoft Office 365    │
-│ - Adobe Creative Cloud    │
-│ - Endpoint Protection     │
-└───────────────────────────┘
 
-┌───────────────────────────┐
-│          Network Devices  │
-│                           │
-│ Hardware:                 │
-│ - Cisco Catalyst 2960     │
-│   Switch (2)              │
-│   - 24 Ports              │
-│   - 1GB RAM               │
-│   - 128MB Flash           │
-│ - Cisco ASA 5505 Firewall │
-│   - 2 vCPUs               │
-│   - 1GB RAM               │
-│   - 1GB Flash             │
-│ Software & Services:      │
-│ - Cisco IOS 15.2          │
-│ - Cisco ASDM              │
-│ - Routing & Switching     │
-│ - Firewall Rules & Policies│
-└───────────────────────────┘
++-------------------------------+  +-------------------------------+  +-------------------------------+
+|        File/Print Server     |  |           VPN Server         |  |      Endpoint Security      |
+| (Windows Server 2022)        |  | (Windows Server 2022)        |  | (Windows Server 2022)       |
+
+| Hardware:                    |  | Hardware:                    |  | Hardware:                   |
+| - 2 vCPUs                    |  | - 2 vCPUs                    |  | - 2 vCPUs                   |
+| - 4GB RAM                    |  | - 4GB RAM                    |  | - 4GB RAM                   |
+| - 100GB Disk (Expandable)    |  | - 80GB Disk                  |  | - 80GB Disk                 |
+
+| Software & Services:         |  | Software & Services:         |  | Software & Services:        |
+| - Distributed File System    |  | - IIS Web Server             |  | - Symantec Endpoint         |
+| - Backup & Restore           |  | - Remote Access              |  |   Protection                |
+| - Print and Document         |  | - Direct Access and VPN      |  |                             |
+|   Services                   |  |                              |  |                             |
++-------------------------------+  +-------------------------------+  +-------------------------------+
+
+
++-------------------------------+  
+|        Helpdesk PC           |  
+| (Windows 11)                 |  
+
+| Hardware:                    | 
+| - 2 vCPUs                    |  
+| - 8GB RAM                    |  
+| - 80GB Disk                  |  
+
+| Software & Services:         |  
+| - RSAT: Remote Admin Tools   |  
+| - TeamViewer                 |  
+| - Microsoft Support and      |
+|   Recovery Assistant         | 
+| - Visual Studio Code         |  
+| - Microsoft Office 365       |
++-------------------------------+  
+
+
++-------------------------------+  +-------------------------------+
+|    PC Client Workstations    |  |   MAC Client Workstation     |
+| (Windows 10/11)              |  | (macOS 13)                   |
+
+| Hardware:                    |  | Hardware:                    |
+| - 2 vCPUs                    |  | - 2 vCPUs                    |
+| - 8GB RAM                    |  | - 8GB RAM                    |
+| - 100GB Disk                 |  | - 120GB Disk                 |
+
+| Software & Services:         |  | Software & Services:         |
+| - Microsoft Office 365       |  | - Microsoft Office 365 (mac) |
+| - Various Multimedia         |  | - Adobe Creative Cloud       |
+|   Software                   |  | - Endpoint Protection        |
+| - Endpoint Protection        |  |                              |
++-------------------------------+  +-------------------------------+
 
 
 ```

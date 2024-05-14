@@ -620,7 +620,8 @@ Folders/
 
       Exercise #1: Troubleshoot network connectivity issues
       > Tools: with Device Manager, and CMD commands (ipconfig, ping, netsh)
-      > Tasks: troubleshoot network issue with admin tools, configure TCP/IP addressing, enable DHCP service
+      > Tasks: troubleshoot network issue with admin tools, configure TCP/IP addressing, enable DHCP 
+               service
 
       Exercise #2: Resolve DNS resolution failures ("Domain could not be contacted" error)
       > Tool: with CMD commands (nslookup, ping, flushdns)
@@ -636,7 +637,8 @@ Folders/
 
       Exercise #1: Set up a shared network printer
       > Tools: with Server Manager, and Device Management
-      > Tasks: remote into virtual server, install printer driver, configure sharing settings, test connection
+      > Tasks: remote into virtual server, install printer driver, configure sharing settings, test 
+               connection
 
       Exercise #2: Resolve restrictive access to share files
       > Tools: with NTFS permissions, and security groups
@@ -660,7 +662,8 @@ Folders/
 
       Exercise #3: Set up MFA sign-in for users
       > Tools: using Microsoft 365 admin center, and MS Authenticator App
-      > Tasks: enable Multi-factor Authetication, set up authenticator app on smartphone, verify sign-in method
+      > Tasks: enable Multi-factor Authetication, set up authenticator app on smartphone, verify 
+               sign-in method
 
 </details>
 
@@ -706,7 +709,8 @@ Folders/
       > Tasks: build a communication site, manage user permissions, develop content (document library, etc)
 
       Exercise #3: Office Suite support (Word/Excel/PowerPoint)
-      > Tasks: recover unsaved docs, repair/reinstall office apps, configure settings to meet users' preferences
+      > Tasks: recover unsaved docs, repair/reinstall office apps, configure settings to meet users' 
+               preferences
 
 </details>
 

@@ -253,6 +253,12 @@ Core technologies/devices to include:
 
 #### <ins>**1.2 - Infrastructure Diagrams**</ins>
 
+<details><summary>Network Diagrams</summary>
+
+![Diagram](IMG_Virtual-Infra-Diagram2.png)
+
+</details>
+
 <details><summary>Virtual Machine Configurations</summary>
 
 ```

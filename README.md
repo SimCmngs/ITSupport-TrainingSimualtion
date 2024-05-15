@@ -398,6 +398,7 @@ Domain
 
 ├── OU- VgmLab Computers
 │   ├── GROUP POLICY: COMPUTER-Network-Discovery-enable
+│   ├── GROUP POLICY: COMPUTER-Install-Printers
 │   ├── Sub OU- Client Workstations_MAC
 │   ├── Sub OU- Client Workstations_PC
 │   │   └── GROUP POLICY: COMPUTER-BlockAccess-to-Applications

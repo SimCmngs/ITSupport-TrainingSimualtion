@@ -580,7 +580,7 @@ Folders/
 > - Configured Exchange Online to manage clients' Outlook email accounts.
 > - Enrolled selected virtual machines/smartphones to Intune for remote device management.
 
-<details><summary>Microsoft 365 - PowerShell Commands</summary>
+<details><summary>Microsoft 365 User Management - PowerShell Commands</summary>
 
 ```powershell
 

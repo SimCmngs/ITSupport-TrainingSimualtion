@@ -136,13 +136,13 @@ Core technologies/devices to include:
 <details><summary>⚙️ - {{{click for more info}}}</summary>
 
    - <ins>**Domain** Controller</ins>:
-     - *on-premises Active Directory environment*
+     - on-premises Active Directory environment
    - <ins>**File/Print** Server</ins>:
-     - *file sharing and print management*
+     - file sharing and print management
    - <ins>**VPN** Server</ins>:
-     - *secure-remote access to company resources*
+     - secure-remote access to company resources
    - <ins>Endpoint **Security**</ins>:
-     - *Symantec's 'endpoint-managed' antivirus solution*
+     - Symantec's 'endpoint-managed' antivirus solution
 
 </details>
 
@@ -151,13 +151,13 @@ Core technologies/devices to include:
 <details><summary>🖥️</summary>
 
    - <ins>**Helpdesk** PC</ins>:
-     - *dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)*
+     - dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)
    - <ins>**Windows** 10/11 PCs</ins>:
-     - *majority of the end-user's devices*
+     - majority of the end-user's devices
    - <ins>**Mac OS** Client</ins>:
-     - *catering to the the needs of the Art and Design teams*
+     - catering to the the needs of the Art and Design teams
    - <ins>**Android** Smartphones</ins>:
-     - *for mobile device management training*
+     - for mobile device management training
 
 </details>
 

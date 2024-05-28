@@ -133,7 +133,7 @@ Core technologies/devices to include:
 
 - ✔️ #1. Virtual **Servers** - *(Vmware)* 
 
-<details><summary>⚙️</summary>
+<details><summary>⚙️
 
    - <ins>**Domain** Controller</ins>:
      - on-premises Active Directory environment
@@ -148,7 +148,7 @@ Core technologies/devices to include:
 
 - ✔️ #2. Virtual **Workstations** - *(Vmware)*
 
-<details><summary>🖥️</summary>
+<details><summary>🖥️
 
    - <ins>**Helpdesk** PC</ins>:
      - dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)
@@ -163,7 +163,7 @@ Core technologies/devices to include:
 
 - ✔️ #3. Cloud **Management Systems** - *(Microsoft 365)*   
 
-<details><summary>☁️</summary>
+<details><summary>☁️
 
    - <ins>**User** Management</ins>:
      - *Microsoft 365/Entra ID - access management to resources/applications*
@@ -178,7 +178,7 @@ Core technologies/devices to include:
 
 - ✔️ #4. **Ticketing** Software - *(Cloud Instance)*
 
-<details><summary>💬</summary>
+<details><summary>💬
 
    - <ins>**Jira** Service Management</ins>:
      - *central platform for logging, prioritising and escalating support tickets*

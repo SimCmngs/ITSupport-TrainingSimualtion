@@ -133,7 +133,7 @@ Core technologies/devices to include:
 
 - ✔️ #1. Virtual **Servers** - *(Vmware)* 
 
-<details><summary>⚙️ - {{{click for more info}}}</summary>
+<details><summary>⚙️
 
    - <ins>**Domain** Controller</ins>:
      - on-premises Active Directory environment

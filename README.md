@@ -187,6 +187,8 @@ Core technologies/devices to include:
 
 </details>
 
+![Diagram](IMG_v_Infra-Network-Diagram.png)
+
 ---
 
 # 💻 Implementation:

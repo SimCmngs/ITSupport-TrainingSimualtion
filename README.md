@@ -253,7 +253,7 @@ Core technologies/devices to include:
 
 #### <ins>**1.2 - Infrastructure Diagrams**</ins>
 
-<details><summary>Network Diagram</summary>
+<details><summary>Network Diagram
 
 ![Diagram](IMG_v_Infra-Network-Diagram.png)
 
@@ -383,7 +383,7 @@ Domain/
   
 </details>
 
-<details><summary>Active Directory "Group Policy (GPO)" Design</summary>
+<details><summary>Active Directory "Group Policy (GPO)" Design
 
 ```yaml
 Domain
@@ -560,7 +560,7 @@ Folders/
 
 </details>
 
-<details><summary>Active Directory - PowerShell Scripts</summary>
+<details><summary>Active Directory - PowerShell Scripts
 
 `PowerShell` -scripts
 
@@ -569,6 +569,8 @@ Folders/
 [AddUsersToSecurityGroup.ps1](AddUsersToSecurityGroup.ps1)
 
 [CreateFileSharesAndPermissions.ps1](CreateFileSharesAndPermissions.ps1)
+
+*Tip: Right-click the link and select "Open link in new tab" to view the scripts without leaving this page.*
 
 </details>
 
@@ -671,7 +673,7 @@ $userIds | ForEach-Object {
 #### <ins>**3.1 - Training Exercises**</ins>
  - Designed a set of realistic IT support scenarios to be used as hands-on training exercises.
 
-<details><summary>#1 - Onboarding and Managing [user accounts]</summary>
+<details><summary>#1 - Onboarding and Managing [user accounts]
 
       Exercise #1: Onboard new users into Active Directory
       > Tools: with RSAT-ADUC Console

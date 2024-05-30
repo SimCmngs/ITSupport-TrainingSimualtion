@@ -1,10 +1,10 @@
 # Simulating a Service Desk Environment - for IT Support Training 
 
-This project aims to provide *hands-on training* and *troubelshooting excercises* to **IT Support Trainees**, by building a realistic and scalable virtual environment, that mirrors an organisation's IT systems.
+This project aims to provide *hands-on training* and *troubleshooting exercises* to **IT Support Trainees**, by building a realistic and scalable virtual environment, that mirrors an organisation's IT systems.
 
 ![Diagram](IMG_Virtual-Infra-Diagram.png)
 
-> This project was originally created as a troubleshooting lab for my own professional development, but  has been adapted to work within the context of a hypothetical service desk environment.
+> This project was originally created as a troubleshooting lab for my own professional development, but has been adapted to work within the context of a hypothetical service desk environment.
 
 ## 🛠 Tools & Technologies:
 
@@ -109,9 +109,9 @@ The **IT Manager** has noticed a concerning decline in customer satisfaction rat
 - Prolonged **Resolution times**
 - Missed **Service Level Agreement** (SLA) **targets**
 
-> These metrics were the result of the **1st Line Support team** coming from external training programs, putting a <ins>focus on theory rather than hands-on expeirence</ins>.
+> These metrics were the result of the **1st Line Support team** coming from external training programs, putting a <ins>focus on theory rather than hands-on experience</ins>.
 >
-> This lack of hands-on experience left trainees <ins>unable to troubleshoot and resolve</ins> a wide range of cusomter's issues, which negatively affected our service desk's operational and support quality.
+> This lack of hands-on experience left trainees <ins>unable to troubleshoot and resolve</ins> a wide range of customer's issues, which negatively affected our service desk's operational and support quality.
 
 ---
 
@@ -157,7 +157,7 @@ Core technologies/devices to include:
    - <ins>**Windows** 10/11 PCs</ins>:
      - majority of the end-user's devices
    - <ins>**Mac OS** Client</ins>:
-     - catering to the the needs of the Art and Design teams
+     - catering to the needs of the Art and Design teams
    - <ins>**Android** Smartphones</ins>:
      - for mobile device management training
 
@@ -172,7 +172,7 @@ Core technologies/devices to include:
    - <ins>**Email** Management</ins>:
      - Exchange Online - *administration of users' Outlook accounts*
    - <ins>**Device** Management</ins>:
-     - Intune - *practicing device enrollmment and policy enforcement*
+     - Intune - *practicing device enrollment and policy enforcement*
    - <ins>**Office 365** Services</ins>:
      - Teams, SharePoint Online, OneDrive, and MS Office Suite
 
@@ -215,7 +215,7 @@ Core technologies/devices to include:
 
 3. **Management Systems**  
 
->   - **Microsoft 365/Entra ID**: *manage cloud-user identites*
+>   - **Microsoft 365/Entra ID**: *manage cloud-user identities*
 >   - **Exchange Online/Outlook**: *email services*
 >   - **Intune**: *manage mobile devices*
 
@@ -247,7 +247,7 @@ Core technologies/devices to include:
    - **CPU**: High-performance processor, *Minimum* 12 cores
    - **RAM**: *Minimum* 64GB
    - **Storage**: *Minimum* 16TB, SSD 
-   - **Networking**: Gigabit Ethernet connectivity, Fiber-optic
+   - **Networking**: Gigabit Ethernet connectivity, Fibre-optic
 
 </details>
 
@@ -664,7 +664,7 @@ $userIds | ForEach-Object {
 #### <ins>**2.4 - Ticketing System Implementation**</ins>
 
 > - Created a Jira Service Management cloud instance, *using a custom domain & company email address*
-> - Set up the ticketing system, *including a cutomer portal with custom issue types*.
+> - Set up the ticketing system, *including a customer portal with custom issue types*.
 > - Assigned agent/customer roles and permissions, *for Team Members/End-Users*.
 > - Set up the Confluence knowledge base, *for customer-facing user guides and FAQs*.
 
@@ -703,7 +703,7 @@ $userIds | ForEach-Object {
 
       Exercise #3: Configure VPN access for remote users
       > Tools: with VPN server and SSL certificate
-      > Tasks: configure VPN connection settings, install security certificate, autheticate remote users
+      > Tasks: configure VPN connection settings, install security certificate, authenticate remote users
 
 </details>
 
@@ -735,7 +735,7 @@ $userIds | ForEach-Object {
 
       Exercise #3: Set up MFA sign-in for users
       > Tools: using Microsoft 365 admin center, and MS Authenticator App
-      > Tasks: enable Multi-factor Authetication, set up authenticator app on smartphone, verify sign-in method
+      > Tasks: enable Multi-factor Authentication, set up authenticator app on smartphone, verify sign-in method
 
 </details>
 
@@ -745,7 +745,7 @@ $userIds | ForEach-Object {
       > Tools: with Exchange Online, and Outlook
       > Tasks: trace messages, create security and email delivery rules
 
-      Exercise #2: Prevent phising/junk mail and block malware attachments
+      Exercise #2: Prevent phishing/junk mail and block malware attachments
       > Tools: with Exchange Online
       > Tasks: create security rules, and test/verify rules are working
 
@@ -775,7 +775,7 @@ $userIds | ForEach-Object {
 
       Exercise #1: Microsoft Teams support
       > Tasks: set up hardware equipment (webcams, headsets), and guide users on Teams' features 
-               (background noise supression, screen sharing, virtual backgrounds)
+               (background noise suppression, screen sharing, virtual backgrounds)
 
       Exercise #2: SharePoint Online support
       > Tasks: build a communication site, manage user permissions, develop content (document library, etc)
@@ -788,15 +788,15 @@ $userIds | ForEach-Object {
 ---
 
 ## 📊 Results:
-The service desk training environment and trobleshooting exercises, achieved the following results:
+The service desk training environment and troubleshooting exercises, achieved the following results:
 - 📈 **Higher First Contact Resolution rates** (FCRs)
 >    - (The realistic training exercises, will enhance practical troubleshooting skills, leading to better-trained engineers that can <ins>resolve issues on first contact</ins>, without escalations to higher-level support.).
     
 - 📉 **Reduced Ticket Resolution Times** (TTRs)
->    - (The scalable design, will enable seamless integration of new systems and emerging technologies for continous learning, leading to engineers being able to <ins>solve a wider range of issues</ins> with <ins>quicker resolution times</ins>).
+>    - (The scalable design, will enable seamless integration of new systems and emerging technologies for continuous learning, leading to engineers being able to <ins>solve a wider range of issues</ins> with <ins>quicker resolution times</ins>).
     
 - 😃 **Increased Customer Satisfaction scores**
->    - (The simulation of real-word customer interactions *(ticketing systems/cusomter portals)*, will allow engineers to develop customer service skills *(de-escalation techniques/prompt responses)* to provide positive user experiences, resulting in <ins>fewer negative reviews</ins> and <ins>higher satisfaction scores</ins>).
+>    - (The simulation of real-word customer interactions *(ticketing systems/customer portals)*, will allow engineers to develop customer service skills *(de-escalation techniques/prompt responses)* to provide positive user experiences, resulting in <ins>fewer negative reviews</ins> and <ins>higher satisfaction scores</ins>).
 
 ---
 

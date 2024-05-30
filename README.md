@@ -675,7 +675,7 @@ $userIds | ForEach-Object {
 #### <ins>**3.1 - Training Exercises**</ins>
  - Designed a set of realistic IT support scenarios to be used as hands-on training exercises.
 
-<details><summary>#1 - Onboarding and Managing [user accounts]
+<details><summary>#1 - Onboarding and Managing [user accounts]</summary>
 
       Exercise #1: Onboard new users into Active Directory
       > Tools: with RSAT-ADUC Console
@@ -747,7 +747,7 @@ https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/5770c3
 
 </details>
 
-<details><summary>#5 - Responding to [email]-related problems</summary>
+<details><summary>#5 - Responding to [email]-related problems
 
       Exercise #1: Troubleshoot mail flow / delivery failures
       > Tools: with Exchange Online, and Outlook
@@ -798,6 +798,11 @@ https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/c110f6
 https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/a8c3d9df-e124-4715-b469-ff7710dbdc27
 
 </details>
+
+---
+
+> [!IMPORTANT]
+> **Drop-down sections above** (^) - expand for more info.
 
 ---
 

@@ -689,6 +689,8 @@ $userIds | ForEach-Object {
       > Tool: with RSAT-ADUC Console
       > Tasks: unlock user accounts, and reset passwords
 
+https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/991ed1df-b461-4da0-b0d6-b05ce85f34d0
+
 </details>
 
 <details><summary>#2 - Troubleshooting and Testing [network connections]</summary>
@@ -704,6 +706,8 @@ $userIds | ForEach-Object {
       Exercise #3: Configure VPN access for remote users
       > Tools: with VPN server and SSL certificate
       > Tasks: configure VPN connection settings, install security certificate, authenticate remote users
+
+https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/ab254fc3-38f2-48e8-9cb3-c88629fbeef5
 
 </details>
 
@@ -721,6 +725,8 @@ $userIds | ForEach-Object {
       > Tools: using OneDrive for Work
       > Tasks: access sharing settings, modify access permissions, generate URL link/send email 
 
+https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/4f7f2d47-a240-4edd-839b-ef7823384720
+
 </details>
 
 <details><summary>#4 - Deploying and Managing [security] solutions</summary>
@@ -736,6 +742,8 @@ $userIds | ForEach-Object {
       Exercise #3: Set up MFA sign-in for users
       > Tools: using Microsoft 365 admin center, and MS Authenticator App
       > Tasks: enable Multi-factor Authentication, set up authenticator app on smartphone, verify sign-in method
+
+https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/5770c391-5d66-4cca-aebe-bef5d1f9482e
 
 </details>
 
@@ -753,6 +761,8 @@ $userIds | ForEach-Object {
       > Tools: for Outlook
       > Tasks: create tags, and rules to automatically sort emails into organised folders
 
+https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/dda2bdfd-1769-4571-b7ba-86cde7a1ed6a
+
 </details>
 
 <details><summary>#6 - Handling [mobile device] management tasks</summary>
@@ -769,6 +779,8 @@ $userIds | ForEach-Object {
       > Tools: with Intune
       > Tasks: select/package apps, configure app installation settings, and deploy apps to devices
 
+https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/c110f62d-1272-42de-9de2-6c9861bdd655
+
 </details>
 
 <details><summary>#7 - Providing [Office 365] technical support </summary>
@@ -782,6 +794,8 @@ $userIds | ForEach-Object {
 
       Exercise #3: Office Suite support (Word/Excel/PowerPoint)
       > Tasks: recover unsaved docs, repair/reinstall office apps, configure settings to meet users' preferences
+
+https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/a8c3d9df-e124-4715-b469-ff7710dbdc27
 
 </details>
 

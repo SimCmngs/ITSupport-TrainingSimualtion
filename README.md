@@ -788,19 +788,19 @@ $userIds | ForEach-Object {
 ---
 
 ## 📊 Results:
-The updated process for creating support documentation with **AI-Scribe**, achieved the following results:
-- 📚 **Optimized Documentation Process**
->    - (AI-generated user guides, will automate the enitre process, <ins>eliminating the need to manually take screenshots</ins>, edit them, <ins>and add step instructions</ins>).
+The service desk training environment and trobleshooting exercises, achieved the following results:
+- 📈 **Higher First Contact Resolution rates** (FCRs)
+>    - (The realistic training exercises, will enhance practical troubleshooting skills, leading to better-trained engineers that can <ins>resolve issues on first contact</ins>, without escalations to higher-level support.).
     
-- 📉 **Reduced Support Ticket Volume**
->    - (Integration of visual-aids, will provide a more intuitive understanding of instructions, <ins>empowering users to resolve issues for themsleves</ins>).
+- 📉 **Reduced Ticket Resolution Times** (TTRs)
+>    - (The scalable design, will enable seamless integration of new systems and emerging technologies for continous learning, leading to engineers being able to <ins>solve a wider range of issues</ins> with <ins>quicker resolution times</ins>).
     
-- 😊 **Improved User Satisfaction**
->    - (Cloud-hosted support docs, will enable automatic updates, giving users access to the most accurate information, resulting in <ins>fewer errors during troubleshooting.</ins>).
+- 😃 **Increased Customer Satisfaction scores**
+>    - (The simulation of real-word customer interactions *(ticketing systems/cusomter portals)*, will allow engineers to develop customer service skills *(de-escalation techniques/prompt responses)* to provide positive user experiences, resulting in <ins>fewer negative reviews</ins> and <ins>higher satisfaction scores</ins>).
 
 ---
 
 ## 🎉 Conclusion:
-Automating support docs with AI-powered Scribe resulted in a streamlined documentation process, enhanced user experience, and improved version control.
+Immersing trainee engineers in in a realistic service environment, gave them the necessary skills to handle more technically complex support tickets and challenging customer interactions. This approach resulted in improved metrics such as higher FCRs, reduced TTRs, and increased customer satisfaction scores.
 
 ---

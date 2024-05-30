@@ -85,6 +85,8 @@ This project aims to provide *hands-on training* and *troubelshooting excercises
   </tr>
 </table>
 
+*Tip: Hover mouse over icons to see the names of tools & technologies.*
+
 <details><summary>Tools & Technologies - LISTED</summary>
 
 > - **Virtualization & Systems:** `VMware` , `Windows 10/11` , Windows `Server OS` , `Mac OS` , `Android`
@@ -166,13 +168,13 @@ Core technologies/devices to include:
 <details><summary>☁️
 
    - <ins>**User** Management</ins>:
-     - *Microsoft 365/Entra ID - access management to resources/applications*
+     - Microsoft 365/Entra ID - *access management to resources/applications*
    - <ins>**Email** Management</ins>:
-     - *Exchange Online - administration of users' Outlook accounts*
+     - Exchange Online - *administration of users' Outlook accounts*
    - <ins>**Device** Management</ins>:
-     - *Intune - practicing device enrollmment and policy enforcement*
+     - Intune - *practicing device enrollmment and policy enforcement*
    - <ins>**Office 365** Services</ins>:
-     - *Teams, SharePoint Online, OneDrive, and MS Office Suite*
+     - Teams, SharePoint Online, OneDrive, and MS Office Suite
 
 </details>
 

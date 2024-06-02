@@ -133,7 +133,15 @@ To address these challenges, the **IT manager** tasked me with developing a <ins
 
 Core technologies/devices to include:
 
-- ✔️ #1. Virtual **Servers** - *(Vmware)* 
+- ✔️ #1. Virtual **Servers** - *(Vmware)*
+<p>
+<img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" title="Active Directory" width="130" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" title="Windows Server OS" width="40" height="48">
+<img src="https://www.techopedia.com/wp-content/uploads/2023/08/VPN.svg" alt="VPN" title="VPN" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security" title="Symantec Endpoint Security (Antivirus)" width="100" height="48">
+</p>
+
 
 <details><summary>⚙️
 
@@ -149,6 +157,12 @@ Core technologies/devices to include:
 </details>
 
 - ✔️ #2. Virtual **Workstations** - *(Vmware)*
+<p>
+<img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" title="Mac OS" width="50" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48">
+</p>
 
 <details><summary>🖥️
 
@@ -163,7 +177,14 @@ Core technologies/devices to include:
 
 </details>
 
-- ✔️ #3. Cloud **Management Systems** - *(Microsoft 365)*   
+- ✔️ #3. Cloud **Management Systems** - *(Microsoft 365)*
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" title="Entra ID (Azure Active Directory)" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" title="Exchange Online" width="48" height="48">
+<img src="https://files.brandlogos.net/svg/6pHg9QdYGc/Microsoft_Intune-OnegDVqpb_brandlogos.net.svg" alt="Intune" title="Intune / Autopilot" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title="Office 365 / MS Office Suite" width="48" height="48">
+</p>
 
 <details><summary>☁️
 
@@ -179,6 +200,10 @@ Core technologies/devices to include:
 </details>
 
 - ✔️ #4. **Ticketing** Software - *(Cloud Instance)*
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" title="Jira Service Management" width="48" height="48">   
+<img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" title="Confluence (Knowledge Base)" width="48" height="40">
+</p>
 
 <details><summary>💬
 

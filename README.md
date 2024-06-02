@@ -164,7 +164,7 @@ Core technologies/devices to include:
 <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48">
 </p>
 
-<details><summary>🖥️Details</summary>
+<details><summary>🖥️
 
    - <ins>**Helpdesk** PC</ins>:
      - dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)
@@ -186,7 +186,7 @@ Core technologies/devices to include:
 <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title="Office 365 / MS Office Suite" width="48" height="48">
 </p>
 
-<details><summary>☁️Details</summary>
+<details><summary>☁️
 
    - <ins>**User** Management</ins>:
      - Microsoft 365/Entra ID - *access management to resources/applications*
@@ -205,7 +205,7 @@ Core technologies/devices to include:
 <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" title="Confluence (Knowledge Base)" width="48" height="40">
 </p>
 
-<details><summary>💬Details</summary>
+<details><summary>💬
 
    - <ins>**Jira** Service Management</ins>:
      - *central platform for logging, prioritising and escalating support tickets*
@@ -823,6 +823,12 @@ https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/c110f6
 https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/a8c3d9df-e124-4715-b469-ff7710dbdc27
 
 </details>
+
+---
+
+[75+ Common IT Issues: Diagnosed and Resolved](https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved)
+
+*Tip: Right-click the link and select "Open link in new tab" to view the scripts without leaving this page.*
 
 ---
 

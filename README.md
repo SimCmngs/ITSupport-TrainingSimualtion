@@ -164,7 +164,7 @@ Core technologies/devices to include:
 <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48">
 </p>
 
-<details><summary>🖥️
+<details><summary>🖥️Details</summary>
 
    - <ins>**Helpdesk** PC</ins>:
      - dedicated workstation for IT support staff, with Remote Admin Tools (RSAT)
@@ -186,7 +186,7 @@ Core technologies/devices to include:
 <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title="Office 365 / MS Office Suite" width="48" height="48">
 </p>
 
-<details><summary>☁️
+<details><summary>☁️Details</summary>
 
    - <ins>**User** Management</ins>:
      - Microsoft 365/Entra ID - *access management to resources/applications*
@@ -205,7 +205,7 @@ Core technologies/devices to include:
 <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" title="Confluence (Knowledge Base)" width="48" height="40">
 </p>
 
-<details><summary>💬
+<details><summary>💬Details</summary>
 
    - <ins>**Jira** Service Management</ins>:
      - *central platform for logging, prioritising and escalating support tickets*

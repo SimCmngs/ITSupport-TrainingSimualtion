@@ -176,14 +176,8 @@ Core technologies/devices to include:
 - ✔️ #3. Cloud **Management Systems** - *(Microsoft 365)*
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="48" height="48">
-<img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" title="Entra ID (Azure Active Directory)" width="48" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" title="Exchange Online" width="48" height="48">
 <img src="https://files.brandlogos.net/svg/6pHg9QdYGc/Microsoft_Intune-OnegDVqpb_brandlogos.net.svg" alt="Intune" title="Intune / Autopilot" width="48" height="48">
-</p>
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" title="Teams" width="48" height="48">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="SharePoint Online" title="SharePoint Online" width="48" height="48">
-<img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" alt="Outlook" title="Outlook" width="48" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title="Office 365 / MS Office Suite" width="48" height="48">
 </p>
 

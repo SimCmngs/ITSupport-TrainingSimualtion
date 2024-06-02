@@ -137,9 +137,6 @@ Core technologies/devices to include:
 <p>
 <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" title="Active Directory" width="130" height="48">
-<img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" title="Windows Server OS" width="40" height="48">
-<img src="https://www.techopedia.com/wp-content/uploads/2023/08/VPN.svg" alt="VPN" title="VPN" width="48" height="48">
-<img src="https://cdn.worldvectorlogo.com/logos/symantec-logo10.svg" alt="Symantec Endpoint Security" title="Symantec Endpoint Security (Antivirus)" width="100" height="48">
 </p>
 
 
@@ -158,7 +155,6 @@ Core technologies/devices to include:
 
 - ✔️ #2. Virtual **Workstations** - *(Vmware)*
 <p>
-<img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" title="Mac OS" width="50" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48">
@@ -183,6 +179,11 @@ Core technologies/devices to include:
 <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" alt="Entra ID" title="Entra ID (Azure Active Directory)" width="48" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-exchange.svg" alt="Exchange Online" title="Exchange Online" width="48" height="48">
 <img src="https://files.brandlogos.net/svg/6pHg9QdYGc/Microsoft_Intune-OnegDVqpb_brandlogos.net.svg" alt="Intune" title="Intune / Autopilot" width="48" height="48">
+</p>
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" title="Teams" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="SharePoint Online" title="SharePoint Online" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" alt="Outlook" title="Outlook" width="48" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MS Office Suite" title="Office 365 / MS Office Suite" width="48" height="48">
 </p>
 

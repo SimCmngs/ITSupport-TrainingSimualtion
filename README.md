@@ -823,7 +823,7 @@ https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/a8c3d9
 
 [75+ Common IT Issues: Diagnosed and Resolved](https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved)
 
-*Tip: Right-click the link and select "Open link in new tab" to view this list without leaving this page.*
+*Tip: Right-click the link and select "Open link in new tab" to view the list without leaving this page.*
 
 ---
 

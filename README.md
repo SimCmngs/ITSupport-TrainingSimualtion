@@ -829,7 +829,7 @@ https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/a8c3d9
 ---
 
 > [!IMPORTANT]
-> **Drop-down sections above** (^) - expand for more info.
+> **Drop-down sections above** (^) - expand for more info/videos.
 
 ---
 
@@ -847,6 +847,6 @@ The service desk training environment and troubleshooting exercises, achieved th
 ---
 
 ## 🎉 Conclusion:
-Immersing trainee engineers in in a realistic service environment, gave them the necessary skills to handle more technically complex support tickets and challenging customer interactions. This approach resulted in improved metrics such as higher FCRs, reduced TTRs, and increased customer satisfaction scores.
+Immersing trainee engineers in in a realistic service environment, will give them the necessary skills to handle more technically complex support tickets and challenging customer interactions; resulting in improved metrics such as higher FCRs, reduced TTRs, and increased customer satisfaction scores.
 
 ---

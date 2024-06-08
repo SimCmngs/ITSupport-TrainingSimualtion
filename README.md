@@ -15,7 +15,7 @@ This project aims to provide *hands-on training* and *troubleshooting exercises*
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server OS" title="Windows Server OS" width="40" height="48">
       <img src="https://www.svgrepo.com/show/448257/vmware.svg" alt="VMware" title="VMware" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48">
@@ -155,7 +155,7 @@ Core technologies/devices to include:
 
 - ✔️ #2. Virtual **Workstations** - *(Vmware)*
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows 10/11" title="Windows 10/11" width="40" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/macos.svg" alt="Mac OS" title="Mac OS" width="50" height="48">
 <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android" title="Android" width="48" height="48">
 </p>

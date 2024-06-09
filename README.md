@@ -820,6 +820,7 @@ https://github.com/SimCmngs/ITSupport-TrainingSimualtion/assets/166608651/a8c3d9
 </details>
 
 > **Videos:** *No audio due to GitHub's upload size limitations.*
+> > *(If a video doesn't play, refresh the page once and try again, it should work then)*
 ---
 
 [75+ Common IT Issues: Diagnosed and Resolved](https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved)

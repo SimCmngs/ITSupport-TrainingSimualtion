@@ -44,7 +44,7 @@ This project aims to provide *hands-on training* and *troubleshooting exercises*
       <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" alt="Active Directory" title="Active Directory" width="130" height="48">
     </td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" alt="Outlook" title="Outlook" width="48" height="48">
+      <img src="https://www.svgrepo.com/show/452067/ms-outlook.svg" alt="Outlook" title="Outlook" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="Teams" title="Teams" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" alt="SharePoint Online" title="SharePoint Online" width="48" height="48">
       <img src="https://cdn.worldvectorlogo.com/logos/onedrive-1.svg" alt="OneDrive for Business" title="OneDrive for Business" width="48" height="48">
@@ -60,10 +60,10 @@ This project aims to provide *hands-on training* and *troubleshooting exercises*
       <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" title="PowerShell" width="48" height="48">
     </td>
     <td>
-      <img src="https://linuxkamarada.com/files/2020/02/preferences-desktop-remote-desktop.svg" alt="Windows Quick Assist" title="Windows Quick Assist" width="48" height="48">
+      <img src="https://www.svgrepo.com/show/366419/remote-desktop.svg" alt="Windows Quick Assist" title="Windows Quick Assist" width="48" height="48">
       <img src="https://visualpharm.com/assets/181/Administrative%20Tools-595b40b65ba036ed117d3b21.svg" alt="RSAT" title="RSAT (Remote Server Administration Tools)" width="48" height="48">
       <img src="https://symbols.getvecta.com/stencil_27/66_remoteapp.ec6c630580.svg" alt="RDP" title="RDP (Remote Desktop Protocol)" width="48" height="40">
-      <img src="https://cdn.worldvectorlogo.com/logos/team-viewer.svg" alt="TeamViewer" title="TeamViewer" width="125" height="48">
+      <img src="https://cdn.brandfetch.io/idB37OxDPS/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="TeamViewer" title="TeamViewer" width="125" height="48">
    </td>
   </tr>
     <tr>
